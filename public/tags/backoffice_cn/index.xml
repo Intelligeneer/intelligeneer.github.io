@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BackOffice_CN on Intelligeneer Bug Free</title>
+    <link>http://localhost:1313/tags/backoffice_cn/</link>
+    <description>Recent content in BackOffice_CN on Intelligeneer Bug Free</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/backoffice_cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3 后台教学 - 中文</title>
+      <link>http://localhost:1313/pospal/3-backoffice_cn/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pospal/3-backoffice_cn/</guid>
+      <description>右上角可以选择播放列表</description>
+    </item>
+  </channel>
+</rss>

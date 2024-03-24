@@ -1,0 +1,337 @@
+<!doctype html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg: #faf8f1"
+  lang="en-us"
+>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+
+  
+  <title>在没有网络的情况下，使用手机热点登入点单系统 - Intelligeneer Bug Free</title>
+
+  
+  <meta name="theme-color" />
+
+  
+  
+  
+  
+  <meta name="description" content="本章我们讲解一下，在主机连接这网线的情况下如果没有了外网，但是又无法进入收银界面该如何操作。 首先我们去到界面左下角第五个按键 关闭Ethern" />
+  <meta name="author" content="Chris" />
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="http://localhost:1313/main.min.css" />
+
+  
+  
+  
+  
+  
+  <link rel="preload" as="image" href="http://localhost:1313/theme.png" />
+
+  
+  
+  
+  
+  <link rel="preload" as="image" href="https://www.intelligeneer.com/cdn/shop/files/Screen_Shot_2022-04-28_at_11.08.37_AM.png?v=1651108130" />
+  
+  
+
+  
+  
+  <link rel="preload" as="image" href="http://localhost:1313/instagram.svg" />
+  
+  
+
+  
+  
+  <script
+    defer
+    src="http://localhost:1313/highlight.min.js"
+    onload="hljs.initHighlightingOnLoad();"
+  ></script>
+  
+
+  
+  
+  
+
+  
+  <link rel="icon" href="http://localhost:1313/favicon.ico" />
+  <link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png" />
+
+  
+  <meta name="generator" content="Hugo 0.124.0">
+
+  
+  
+  
+</head>
+
+  <body class="text-black duration-200 ease-out dark:text-white">
+    <header class="mx-auto flex h-[4.5rem] max-w-3xl px-8 lg:justify-center">
+  <div class="relative z-50 mr-auto flex items-center">
+    <a
+      class="-translate-x-[1px] -translate-y-[1px] text-2xl font-semibold"
+      href="http://localhost:1313/"
+      >Intelligeneer Bug Free</a
+    >
+    <div
+      class="btn-dark text-[0] ml-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+      role="button"
+      aria-label="Dark"
+    ></div>
+  </div>
+
+  <div
+    class="btn-menu relative z-50 -mr-8 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
+    role="button"
+    aria-label="Menu"
+  ></div>
+
+  
+
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = '#faf8f1'.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
+
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none"
+  >
+    
+    
+    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-6">
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/pospal/"
+        >💻Pospal</a
+      >
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/robot/"
+        >🤖Robot</a
+      >
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/about/"
+        >About Us</a
+      >
+      
+    </nav>
+    
+
+    
+    <nav
+      class="mt-12 flex justify-center space-x-10 dark:invert lg:ml-12 lg:mt-0 lg:items-center lg:space-x-6"
+    >
+      
+      <a
+        class="h-8 w-8 text-[0] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./instagram.svg)"
+        href="https://instagram.com/ada_pay_"
+        target="_blank"
+        rel="me"
+      >
+        instagram
+      </a>
+      
+    </nav>
+    
+  </div>
+</header>
+
+
+    <main
+      class="prose prose-neutral relative mx-auto min-h-[calc(100%-9rem)] max-w-3xl px-8 pb-16 pt-12 dark:prose-invert"
+    >
+      
+
+<article>
+  <header class="mb-16">
+    <h1 class="!my-0 pb-2.5">在没有网络的情况下，使用手机热点登入点单系统</h1>
+
+    
+    <div class="text-sm antialiased opacity-60">
+      
+      <time>Mar 18, 2024</time>
+      
+      
+      
+      
+      <span class="mx-1">&middot;</span>
+      <span>Chris</span>
+      
+    </div>
+    
+  </header>
+
+  <section><p><strong>本章我们讲解一下，在主机连接这网线的情况下如果没有了外网，但是又无法进入收银界面该如何操作。</strong></p>
+<p>首先我们去到界面<strong>左下角第五个</strong>按键</p>
+<p><strong>关闭Ethernet开关</strong>
+<img src="/img/EthernetOff.png" alt="EthernetOff.png"></p>
+<p><strong>切换到WiFi按键</strong>
+<img src="/img/SwitchWifi.png" alt="SwitchWifi.png"></p>
+<p><strong>打开WiFi开关</strong>
+<img src="/img/WifiOn.png" alt="WifiOn.png"></p>
+<p><strong>打开WiFi后点开More Settings</strong>
+<img src="/img/WifiMoresettings.png" alt="WifiMoresettings.png"></p>
+<p><strong>手机热点需要打开“最大化相容性” Maximize Compatibility</strong>
+<img src="/img/Mobile.png" alt="Mobile.png"></p>
+<p><strong>选择您的手机热点，并输入手机热点密码</strong>
+<img src="/img/SelectWifi.png" alt="SelectWifi.png"></p>
+<p><strong>返回到登入界面，登入员工账号</strong>
+<img src="/img/Login.png" alt="Login.png"></p>
+<p><strong>进入到点餐界面</strong>
+<img src="/img/OrderPage.png" alt="OrderPage.png"></p>
+<p><strong>在点菜界面之后，回到左下角第五个按键，WiFi界面，把WiFi开关关闭</strong>
+<img src="/img/WifiOff.png" alt="WifiOff.png"></p>
+<p><strong>切换到Ethernet，并把Ethernet开关打开</strong>
+<img src="/img/OrderPageEthernetOn.png" alt="OrderPageEthernetOn.png"></p>
+<p><strong>这样点菜系统就可以离线下单，并且可以让厨房的打印机和KDS依然可以正常工作</strong></p>
+</section>
+
+  
+  
+
+  
+  
+  
+  
+  <nav class="mt-24 flex rounded-lg bg-black/[3%] text-lg dark:bg-white/[8%]">
+    
+    
+    <a
+      class="ml-auto flex w-1/2 items-center justify-end rounded-r-md p-6 pl-3 font-semibold no-underline hover:bg-black/[2%] dark:hover:bg-white/[3%]"
+      href="http://localhost:1313/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E4%BA%A4%E6%8E%A5%E7%8F%AD---%E5%AE%89%E5%8D%93%E7%B3%BB%E7%BB%9F-handover-on-pos---android-end/"
+      ><span>1 收银端教学-安卓版 (POS Training-Android Version)</span><span class="ml-1.5">→</span></a
+    >
+    
+  </nav>
+  
+  
+
+  
+  
+
+  
+  
+
+  
+
+
+  
+</article>
+
+
+    </main>
+
+    <footer
+  class="opaco mx-auto flex h-[4.5rem] max-w-3xl items-center px-8 text-[0.9em] opacity-60"
+>
+  <div class="mr-auto">
+    &copy; 2024
+    <a class="link" href="http://localhost:1313/">Intelligeneer Bug Free</a>
+  </div>
+  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
+    >Powered by Hugo️️</a
+  >️
+  <a
+    class="link"
+    href="https://github.com/nanxiaobei/hugo-paper"
+    rel="noopener"
+    target="_blank"
+    >✎ Paper</a
+  >
+</footer>
+
+  </body>
+</html>
