@@ -1,5 +1,5 @@
 +++
-title = '2 收银端教学 - 会员功能'
+title = '2 PosPal POS Training - Membership Function'
 date = 2024-03-13
 lastmod = 2024-03-25T10:34:13+10:00 #更新时间
 description = "" #描述

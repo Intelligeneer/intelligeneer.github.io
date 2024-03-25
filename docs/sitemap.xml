@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://intelligeneer.github.io/en/pospal/public_surcharge/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://intelligeneer.github.io/cn/</loc>
     <lastmod>2024-03-25T10:34:13+10:00</lastmod>
   </url><url>
@@ -29,19 +32,16 @@
     <loc>https://intelligeneer.github.io/robot/first/</loc>
     <lastmod>2024-03-18T14:38:28+10:00</lastmod>
   </url><url>
-    <loc>https://intelligeneer.github.io/en/pospal/public_surcharge/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <loc>https://intelligeneer.github.io/en/pospal/1-pospal-pos-training-android-version/</loc>
+    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://intelligeneer.github.io/cn/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</loc>
     <lastmod>2024-03-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intelligeneer.github.io/en/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</loc>
-    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://intelligeneer.github.io/cn/pospal/2-pos_membership/</loc>
+    <loc>https://intelligeneer.github.io/en/pospal/2-pos_membership/</loc>
     <lastmod>2024-03-25T10:34:13+10:00</lastmod>
   </url><url>
-    <loc>https://intelligeneer.github.io/en/pospal/2-pos_membership/</loc>
+    <loc>https://intelligeneer.github.io/cn/pospal/2-pos_membership/</loc>
     <lastmod>2024-03-25T10:34:13+10:00</lastmod>
   </url><url>
     <loc>https://intelligeneer.github.io/cn/pospal/3-adapay_eftpos/</loc>

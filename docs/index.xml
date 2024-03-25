@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 25 Mar 2024 10:34:13 +1000</lastBuildDate>
     <atom:link href="https://intelligeneer.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Public Surcharge Set up</title>
+      <link>https://intelligeneer.github.io/en/pospal/public_surcharge/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/en/pospal/public_surcharge/</guid>
+      <description>Login to you PosPal account on Back Office PosPal Login Website: https://anz.pospal.cn/ and then on Left-hand side find Settings &amp;mdash;&amp;gt; System Settings on Right-hand side find Sales tax &amp;amp; Service tax setting Press Edit and change Service Fee to any Public Surcharge you want to set</description>
+    </item>
+    <item>
       <title>在没有网络的情况下，使用手机热点登入点单系统</title>
       <link>https://intelligeneer.github.io/cn/pospal/change_internet/</link>
       <pubDate>Mon, 18 Mar 2024 15:30:57 +1000</pubDate>
@@ -30,11 +37,11 @@
       <description>Test Thor</description>
     </item>
     <item>
-      <title>{{ replace .File.ContentBaseName &#34;-&#34; &#34; &#34; | title }}</title>
-      <link>https://intelligeneer.github.io/en/pospal/public_surcharge/</link>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/en/pospal/public_surcharge/</guid>
-      <description></description>
+      <title>1 PosPal POS Training-Android Version</title>
+      <link>https://intelligeneer.github.io/en/pospal/1-pospal-pos-training-android-version/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/en/pospal/1-pospal-pos-training-android-version/</guid>
+      <description>右上角可以选择播放列表</description>
     </item>
     <item>
       <title>1 收银端教学-安卓版 (POS Training-Android Version)</title>
@@ -44,10 +51,10 @@
       <description>右上角可以选择播放列表</description>
     </item>
     <item>
-      <title>1 收银端教学-安卓版 (POS Training-Android Version)</title>
-      <link>https://intelligeneer.github.io/en/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</link>
+      <title>2 PosPal POS Training - Membership Function</title>
+      <link>https://intelligeneer.github.io/en/pospal/2-pos_membership/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/en/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</guid>
+      <guid>https://intelligeneer.github.io/en/pospal/2-pos_membership/</guid>
       <description>右上角可以选择播放列表</description>
     </item>
     <item>
@@ -55,13 +62,6 @@
       <link>https://intelligeneer.github.io/cn/pospal/2-pos_membership/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://intelligeneer.github.io/cn/pospal/2-pos_membership/</guid>
-      <description>右上角可以选择播放列表</description>
-    </item>
-    <item>
-      <title>2 收银端教学 - 会员功能</title>
-      <link>https://intelligeneer.github.io/en/pospal/2-pos_membership/</link>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/en/pospal/2-pos_membership/</guid>
       <description>右上角可以选择播放列表</description>
     </item>
     <item>

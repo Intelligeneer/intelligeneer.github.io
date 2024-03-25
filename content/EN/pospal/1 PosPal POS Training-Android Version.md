@@ -1,5 +1,5 @@
 +++
-title = '1 收银端教学-安卓版 (POS Training-Android Version)'
+title = '1 PosPal POS Training-Android Version'
 categories = ["POSPAL", "Training"]
 tags = ["POSPAL"]
 date = 2024-03-13
