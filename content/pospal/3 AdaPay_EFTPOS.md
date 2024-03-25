@@ -1,5 +1,5 @@
 +++
-title = '2 AdaPay EFTPOS'
+title = '3 AdaPay EFTPOS'
 categories = ["POSPAL", "Training"]
 tags = ["AdaPay"]
 date = 2024-03-13

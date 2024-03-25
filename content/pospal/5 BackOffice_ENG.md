@@ -1,8 +1,8 @@
 +++
-title = '4 Back Office - English Ver'
+title = '5 Back Office - English Ver'
 categories = ["POSPAL", "Training"]
 tags = ["BackOffice_ENG"]
-date = 2024-03-13
+date = 2024-03-10
 draft = false
 +++
 
