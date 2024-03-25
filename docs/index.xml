@@ -10,9 +10,16 @@
     <atom:link href="https://intelligeneer.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>在没有网络的情况下，使用手机热点登入点单系统</title>
-      <link>https://intelligeneer.github.io/pospal/change_internet/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/change_internet/</link>
       <pubDate>Mon, 18 Mar 2024 15:30:57 +1000</pubDate>
-      <guid>https://intelligeneer.github.io/pospal/change_internet/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/change_internet/</guid>
+      <description>本章我们讲解一下，在主机连接这网线的情况下如果没有了外网，但是又无法进入收银界面该如何操作。 首先我们去到界面左下角第五个按键 关闭Ethern</description>
+    </item>
+    <item>
+      <title>在没有网络的情况下，使用手机热点登入点单系统</title>
+      <link>https://intelligeneer.github.io/en/pospal/change_internet/</link>
+      <pubDate>Mon, 18 Mar 2024 15:30:57 +1000</pubDate>
+      <guid>https://intelligeneer.github.io/en/pospal/change_internet/</guid>
       <description>本章我们讲解一下，在主机连接这网线的情况下如果没有了外网，但是又无法进入收银界面该如何操作。 首先我们去到界面左下角第五个按键 关闭Ethern</description>
     </item>
     <item>
@@ -23,45 +30,80 @@
       <description>Test Thor</description>
     </item>
     <item>
+      <title>{{ replace .File.ContentBaseName &#34;-&#34; &#34; &#34; | title }}</title>
+      <link>https://intelligeneer.github.io/en/pospal/public_surcharge/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/en/pospal/public_surcharge/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>1 收银端教学-安卓版 (POS Training-Android Version)</title>
-      <link>https://intelligeneer.github.io/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</guid>
+      <description>右上角可以选择播放列表</description>
+    </item>
+    <item>
+      <title>1 收银端教学-安卓版 (POS Training-Android Version)</title>
+      <link>https://intelligeneer.github.io/en/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/en/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</guid>
       <description>右上角可以选择播放列表</description>
     </item>
     <item>
       <title>2 收银端教学 - 会员功能</title>
-      <link>https://intelligeneer.github.io/pospal/2-pos_membership/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/2-pos_membership/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/pospal/2-pos_membership/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/2-pos_membership/</guid>
+      <description>右上角可以选择播放列表</description>
+    </item>
+    <item>
+      <title>2 收银端教学 - 会员功能</title>
+      <link>https://intelligeneer.github.io/en/pospal/2-pos_membership/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/en/pospal/2-pos_membership/</guid>
       <description>右上角可以选择播放列表</description>
     </item>
     <item>
       <title>3 AdaPay EFTPOS</title>
-      <link>https://intelligeneer.github.io/pospal/3-adapay_eftpos/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/3-adapay_eftpos/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/pospal/3-adapay_eftpos/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/3-adapay_eftpos/</guid>
+      <description>右上角可以选择播放列表</description>
+    </item>
+    <item>
+      <title>3 AdaPay EFTPOS</title>
+      <link>https://intelligeneer.github.io/en/pospal/3-adapay_eftpos/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/en/pospal/3-adapay_eftpos/</guid>
       <description>右上角可以选择播放列表</description>
     </item>
     <item>
       <title>4 后台教学 - 中文</title>
-      <link>https://intelligeneer.github.io/pospal/4-backoffice_cn/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/4-backoffice_cn/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/pospal/4-backoffice_cn/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/4-backoffice_cn/</guid>
       <description>右上角可以选择播放列表</description>
     </item>
     <item>
-      <title>5 Back Office - English Ver</title>
-      <link>https://intelligeneer.github.io/pospal/5-backoffice_eng/</link>
+      <title>4 Back Office - English Ver</title>
+      <link>https://intelligeneer.github.io/en/pospal/5-backoffice_eng/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/pospal/5-backoffice_eng/</guid>
+      <guid>https://intelligeneer.github.io/en/pospal/5-backoffice_eng/</guid>
       <description>右上角可以选择播放列表</description>
     </item>
     <item>
       <title>这是银豹系统的一个视频Training网站</title>
-      <link>https://intelligeneer.github.io/pospal/0-readme/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/0-readme/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/pospal/0-readme/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/0-readme/</guid>
+      <description>这是银豹系统的一个视频Training网站</description>
+    </item>
+    <item>
+      <title>这是银豹系统的一个视频Training网站</title>
+      <link>https://intelligeneer.github.io/en/pospal/0-readme/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/en/pospal/0-readme/</guid>
       <description>这是银豹系统的一个视频Training网站</description>
     </item>
     <item>
