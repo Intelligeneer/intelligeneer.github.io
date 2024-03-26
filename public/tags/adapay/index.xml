@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AdaPay on Intelligeneer Bug Free 🤐</title>
-    <link>https://intelligeneer.github.io/tags/adapay/</link>
+    <link>http://localhost:1313/tags/adapay/</link>
     <description>Recent content in AdaPay on Intelligeneer Bug Free 🤐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://intelligeneer.github.io/tags/adapay/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/adapay/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3 AdaPay EFTPOS</title>
-      <link>https://intelligeneer.github.io/cn/pospal/3-adapay_eftpos/</link>
+      <link>http://localhost:1313/cn/pospal/3-adapay_eftpos/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/cn/pospal/3-adapay_eftpos/</guid>
-      <description>右上角可以选择播放列表</description>
+      <guid>http://localhost:1313/cn/pospal/3-adapay_eftpos/</guid>
+      <description>1 在Adapay刷卡机更新配置 2 在Adapay刷卡机上查看每日刷卡总额并充值 3 在Adapay刷卡机上切换 WiFi 或 4G backup 4 在Adapay刷卡机上查看</description>
     </item>
     <item>
       <title>3 AdaPay EFTPOS</title>
-      <link>https://intelligeneer.github.io/en/pospal/3-adapay_eftpos/</link>
+      <link>http://localhost:1313/en/pospal/3-adapay_eftpos/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/en/pospal/3-adapay_eftpos/</guid>
-      <description>Choose Episode on Top Right Corner </description>
+      <guid>http://localhost:1313/en/pospal/3-adapay_eftpos/</guid>
+      <description>1 Configuration Update on Adapay EFTPOS 2 Check and Reset daily total sales on Adapay EFTPOS Machine 3 Switch Network on Adapay EFTPOS Machin 4 Check and Reprint Merchant or Customer Receipt on Adapay EFTPOS Machine 5 AdaPay Customer with Standalone EFTPOS, Check Total Transaction Report Choose Episode on Top Right Corner </description>
     </item>
   </channel>
 </rss>

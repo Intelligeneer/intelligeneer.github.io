@@ -13,5 +13,34 @@ disableShare = true # 底部不显示分享栏
 showbreadcrumbs = true #顶部显示当前路径
 +++
 
+
+**1 Add New Member on POS**
+{{< youtube id="playlist?list=PLARAy0Gh8lsbpj24ZXkit1nvr_k2tjoPK&si=LnLaqYy7CYjOYfbR&index=1" >}}
+
+**2 Choose Member to earn point on POS**
+{{< youtube id="playlist?list=PLARAy0Gh8lsbpj24ZXkit1nvr_k2tjoPK&si=LnLaqYy7CYjOYfbR&index=2" >}}
+
+**3 Use Member point to redeem Item on Member Page**
+{{< youtube id="playlist?list=PLARAy0Gh8lsbpj24ZXkit1nvr_k2tjoPK&si=LnLaqYy7CYjOYfbR&index=3" >}}
+
+**4 Member Recharge on POS**
+{{< youtube id="playlist?list=PLARAy0Gh8lsbpj24ZXkit1nvr_k2tjoPK&si=LnLaqYy7CYjOYfbR&index=4" >}}
+
+**5 Use Member Balance on POS**
+{{< youtube id="playlist?list=PLARAy0Gh8lsbpj24ZXkit1nvr_k2tjoPK&si=LnLaqYy7CYjOYfbR&index=5" >}}
+
+**6 Using Member points on POS**
+{{< youtube id="playlist?list=PLARAy0Gh8lsbpj24ZXkit1nvr_k2tjoPK&si=LnLaqYy7CYjOYfbR&index=6" >}}
+
+**7 Use Mix Payment when Member don't have enough Balance**
+{{< youtube id="playlist?list=PLARAy0Gh8lsbpj24ZXkit1nvr_k2tjoPK&si=LnLaqYy7CYjOYfbR&index=7" >}}
+
+**8 Redeem Item on POS**
+{{< youtube id="playlist?list=PLARAy0Gh8lsbpj24ZXkit1nvr_k2tjoPK&si=LnLaqYy7CYjOYfbR&index=8" >}}
+
+**9 Using Voucher on POS end**
+{{< youtube id="playlist?list=PLARAy0Gh8lsbpj24ZXkit1nvr_k2tjoPK&si=LnLaqYy7CYjOYfbR&index=9" >}}
+
+
 **Choose Episode on Top Right Corner**
 {{< youtube id="videoseries?list=PLARAy0Gh8lsbpj24ZXkit1nvr_k2tjoPK"  start="0" >}}
