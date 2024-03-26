@@ -62,6 +62,9 @@ draft = false
 **19 Add Main POS IP Address on Secondary POS**
 {{< youtube id="playlist?list=PLARAy0Gh8lsbqO01WbNTGylCQd3oOJtoe&si=bRzfMbDVlUI7E4cr&index=19" >}}
 
+**20 Bind Item to specified Kitchen Printer on POS end**
+{{< youtube id="playlist?list=PLARAy0Gh8lsbqO01WbNTGylCQd3oOJtoe&si=bRzfMbDVlUI7E4cr&index=20" >}}
+
 
 **Choose Episode on Top Right Corner**
 {{< youtube id="videoseries?list=PLARAy0Gh8lsbqO01WbNTGylCQd3oOJtoe"  start="0" >}}
