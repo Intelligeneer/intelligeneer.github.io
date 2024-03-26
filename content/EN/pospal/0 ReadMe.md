@@ -1,5 +1,5 @@
 +++
-title = '这是银豹系统的一个视频Training网站'
+title = 'This is a PosPal Training Website'
 date = 2024-03-10
 draft = false
 description = "" #描述
@@ -12,4 +12,4 @@ disableShare = true # 底部不显示分享栏
 showbreadcrumbs = true #顶部显示当前路径
 +++
 
-这是银豹系统的一个视频Training网站
+This is a PosPal Training Website
