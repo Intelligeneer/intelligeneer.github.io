@@ -26,3 +26,6 @@ Press **Edit**
 
 and change **Service Fee** to any Public Surcharge you want to set and **Save**
 ![change_service_tax.png](/img/change_service_tax.png)
+
+**Video Down Below👇**
+{{< youtube id="i-lCSeRt7sw?si=EgB8AxZRtWYU5bUY" >}}
