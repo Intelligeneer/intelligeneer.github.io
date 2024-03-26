@@ -21,5 +21,8 @@ and then on Left-hand side find **Settings**  ---> **System Settings**
 
 on Right-hand side find **Sales tax & Service tax setting**
 
-Press **Edit** and change **Service Fee** to any Public Surcharge you want to set
+Press **Edit** 
 ![sales_tax.png](/img/sales_tax.png)
+
+and change **Service Fee** to any Public Surcharge you want to set and **Save**
+![change_service_tax.png](/img/change_service_tax.png)
