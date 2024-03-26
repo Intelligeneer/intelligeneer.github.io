@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 25 Mar 2024 10:34:13 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/cn/pospal/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>公共假期手续费设置</title>
+      <link>http://localhost:1313/cn/pospal/public_surcharge/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cn/pospal/public_surcharge/</guid>
+      <description>登入到银豹后台 银豹登入链接: https://anz.pospal.cn/ 在左手边找到 设置 &amp;mdash;&amp;gt; 系统设置 在右手边找到 消费税服务费设置 点击 编辑 这样在 服务费 中修改任何你想加收的服务费并点击 保存</description>
+    </item>
+    <item>
       <title>在没有网络的情况下，使用手机热点登入点单系统</title>
       <link>http://localhost:1313/cn/pospal/change_internet/</link>
       <pubDate>Mon, 18 Mar 2024 15:30:57 +1000</pubDate>

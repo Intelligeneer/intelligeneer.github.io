@@ -16,6 +16,13 @@
       <description>Login to you PosPal account on Back Office PosPal Login Website: https://anz.pospal.cn/ and then on Left-hand side find Settings &amp;mdash;&amp;gt; System Settings on Right-hand side find Sales tax &amp;amp; Service tax setting Press Edit and change Service Fee to any Public Surcharge you want to set and Save</description>
     </item>
     <item>
+      <title>公共假期手续费设置</title>
+      <link>https://intelligeneer.github.io/cn/pospal/public_surcharge/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/cn/pospal/public_surcharge/</guid>
+      <description>登入到银豹后台 银豹登入链接: https://anz.pospal.cn/ 在左手边找到 设置 &amp;mdash;&amp;gt; 系统设置 在右手边找到 消费税服务费设置 点击 编辑 这样在 服务费 中修改任何你想加收的服务费并点击 保存</description>
+    </item>
+    <item>
       <title>在没有网络的情况下，使用手机热点登入点单系统</title>
       <link>https://intelligeneer.github.io/cn/pospal/change_internet/</link>
       <pubDate>Mon, 18 Mar 2024 15:30:57 +1000</pubDate>
