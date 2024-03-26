@@ -13,5 +13,5 @@ disableShare = true # 底部不显示分享栏
 showbreadcrumbs = true #顶部显示当前路径
 +++
 
-右上角可以选择播放列表
+**Choose Episode on Top Right Corner**
 {{< youtube id="videoseries?list=PLARAy0Gh8lsbpj24ZXkit1nvr_k2tjoPK"  start="0" >}}

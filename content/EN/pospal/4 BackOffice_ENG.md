@@ -6,5 +6,5 @@ date = 2024-03-10
 draft = false
 +++
 
-右上角可以选择播放列表
+**Choose Episode on Top Right Corner**
 {{< youtube id="videoseries?list=PLARAy0Gh8lsZ3w_sGJgF4XMt6TdPasdlG"  start="0" >}}

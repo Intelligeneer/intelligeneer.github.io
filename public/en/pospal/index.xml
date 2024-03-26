@@ -27,35 +27,35 @@
       <link>http://localhost:1313/en/pospal/1-pospal-pos-training-android-version/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/pospal/1-pospal-pos-training-android-version/</guid>
-      <description>右上角可以选择播放列表</description>
+      <description>Choose Episode on Top Right Corner </description>
     </item>
     <item>
       <title>2 PosPal POS Training - Membership Function</title>
       <link>http://localhost:1313/en/pospal/2-pos_membership/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/pospal/2-pos_membership/</guid>
-      <description>右上角可以选择播放列表</description>
+      <description>Choose Episode on Top Right Corner</description>
     </item>
     <item>
       <title>3 AdaPay EFTPOS</title>
       <link>http://localhost:1313/en/pospal/3-adapay_eftpos/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/pospal/3-adapay_eftpos/</guid>
-      <description>右上角可以选择播放列表</description>
+      <description>Choose Episode on Top Right Corner </description>
     </item>
     <item>
       <title>4 Back Office - English Ver</title>
       <link>http://localhost:1313/en/pospal/4-backoffice_eng/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/pospal/4-backoffice_eng/</guid>
-      <description>右上角可以选择播放列表</description>
+      <description>Choose Episode on Top Right Corner </description>
     </item>
     <item>
-      <title>这是银豹系统的一个视频Training网站</title>
+      <title>This is a PosPal Training Website</title>
       <link>http://localhost:1313/en/pospal/0-readme/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/pospal/0-readme/</guid>
-      <description>这是银豹系统的一个视频Training网站</description>
+      <description>This is a PosPal Training Website</description>
     </item>
   </channel>
 </rss>
