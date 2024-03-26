@@ -23,10 +23,10 @@
     <loc>http://localhost:1313/en/pospal/</loc>
     <lastmod>2024-03-25T10:34:13+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cn/pospal/change_internet/</loc>
+    <loc>http://localhost:1313/en/pospal/change_internet/</loc>
     <lastmod>2024-03-18T15:30:57+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/pospal/change_internet/</loc>
+    <loc>http://localhost:1313/cn/pospal/change_internet/</loc>
     <lastmod>2024-03-18T15:30:57+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/robot/</loc>

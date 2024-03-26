@@ -23,17 +23,17 @@
       <description>登入到银豹后台 银豹登入链接: https://anz.pospal.cn/ 在左手边找到 设置 &amp;mdash;&amp;gt; 系统设置 在右手边找到 消费税服务费设置 点击 编辑 这样在 服务费 中修改任何你想加收的服务费并点击 保存</description>
     </item>
     <item>
+      <title>Using a mobile hotspot to Login the PosPal system without internet access</title>
+      <link>http://localhost:1313/en/pospal/change_internet/</link>
+      <pubDate>Mon, 18 Mar 2024 15:30:57 +1000</pubDate>
+      <guid>http://localhost:1313/en/pospal/change_internet/</guid>
+      <description>In this chapter, We gonna Using a mobile hotspot to Login the PosPal system without internet access&#xA;First we need to find the Fifth Button on bottom Left Corner&#xA;Turn Off Ethernet Button Switch to WiFi Section Turn On WiFi Button After Turn On WiFi, Press More Settings Make Sure your Mobile Hotspot is On and also turn on the Maximize Compatibility Select your Mobile Hotspot and input the Password then Back to the Login Page, and login with your Staff account After that you can see the Ordering Page On the Order Page, back to the Fifth Button on bottom Left Corner To the WiFi Section, Turn Off the WiFi Button and then Switch to Ethernet Section, turn on the Ethernet This way, the ordering system can be used to place orders offline, and the kitchen printer and KDS can still function normally.</description>
+    </item>
+    <item>
       <title>在没有网络的情况下，使用手机热点登入点单系统</title>
       <link>http://localhost:1313/cn/pospal/change_internet/</link>
       <pubDate>Mon, 18 Mar 2024 15:30:57 +1000</pubDate>
       <guid>http://localhost:1313/cn/pospal/change_internet/</guid>
-      <description>本章我们讲解一下，在主机连接这网线的情况下如果没有了外网，但是又无法进入收银界面该如何操作。 首先我们去到界面左下角第五个按键 关闭Ethern</description>
-    </item>
-    <item>
-      <title>在没有网络的情况下，使用手机热点登入点单系统</title>
-      <link>http://localhost:1313/en/pospal/change_internet/</link>
-      <pubDate>Mon, 18 Mar 2024 15:30:57 +1000</pubDate>
-      <guid>http://localhost:1313/en/pospal/change_internet/</guid>
       <description>本章我们讲解一下，在主机连接这网线的情况下如果没有了外网，但是又无法进入收银界面该如何操作。 首先我们去到界面左下角第五个按键 关闭Ethern</description>
     </item>
     <item>

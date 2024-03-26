@@ -1,42 +1,44 @@
 +++
-title = '在没有网络的情况下，使用手机热点登入点单系统'
+title = 'Using a mobile hotspot to Login the PosPal system without internet access'
 date = 2024-03-18T15:30:57+10:00
 draft = false
 Author = 'Chris'
 +++
 
-**本章我们讲解一下，在主机连接这网线的情况下如果没有了外网，但是又无法进入收银界面该如何操作。**
+**In this chapter, We gonna Using a mobile hotspot to Login the PosPal system without internet access**
 
-首先我们去到界面**左下角第五个**按键
 
-**关闭Ethernet开关**
+First we need to find **the Fifth Button on bottom Left Corner**
+
+**Turn Off Ethernet Button**
 ![EthernetOff.png](/img/EthernetOff.png)
 
-**切换到WiFi按键**
+**Switch to WiFi Section**
 ![SwitchWifi.png](/img/SwitchWifi.png)
 
-**打开WiFi开关**
+**Turn On WiFi Button**
 ![WifiOn.png](/img/WifiOn.png)
 
-**打开WiFi后点开More Settings**
+**After Turn On WiFi, Press More Settings**
 ![WifiMoresettings.png](/img/WifiMoresettings.png)
 
-**手机热点需要打开“最大化相容性” Maximize Compatibility**
+**Make Sure your Mobile Hotspot is On and also turn on the Maximize Compatibility**
 ![Mobile.png](/img/Mobile.png)
 
-**选择您的手机热点，并输入手机热点密码**
+**Select your Mobile Hotspot and input the Password**
 ![SelectWifi.png](/img/SelectWifi.png)
 
-**返回到登入界面，登入员工账号**
+**then Back to the Login Page, and login with your Staff account**
 ![Login.png](/img/Login.png)
 
-**进入到点餐界面**
+**After that you can see the Ordering Page**
 ![OrderPage.png](/img/OrderPage.png)
 
-**在点菜界面之后，回到左下角第五个按键，WiFi界面，把WiFi开关关闭**
+**On the Order Page, back to the Fifth Button on bottom Left Corner**
+**To the WiFi Section, Turn Off the WiFi Button**
 ![WifiOff.png](/img/WifiOff.png)
 
-**切换到Ethernet，并把Ethernet开关打开**
+**and then Switch to Ethernet Section, turn on the Ethernet**
 ![OrderPageEthernetOn.png](/img/OrderPageEthernetOn.png)
 
-**这样点菜系统就可以离线下单，并且可以让厨房的打印机和KDS依然可以正常工作**
+**This way, the ordering system can be used to place orders offline, and the kitchen printer and KDS can still function normally.**
