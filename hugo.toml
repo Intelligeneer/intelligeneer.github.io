@@ -14,22 +14,28 @@ buildExpired = 'false'
 
 [menu]
 [[menu.main]]
-identifier = "Pospal"
-name = "💻Pospal"
-url = "/pospal/"
+identifier = "Pospal_cn"
+name = "💻Pospal/🇨🇳"
+url = "/cn/pospal/"
 weight = 1
+
+[[menu.main]]
+identifier = "Pospal_en"
+name = "💻Pospal/🇦🇺"
+url = "/en/pospal/"
+weight = 2
 
 [[menu.main]]
 identifier = "Robot"
 name = "🤖Robot"
 url = "/Robot/"
-weight = 2
+weight = 3
 
 [[menu.main]]
-identifier = "about"
-name = "About Us"
+identifier = "About"
+name = "😘About Us"
 url = "/about/"
-weight = 3
+weight = 4
 
 
 [params]

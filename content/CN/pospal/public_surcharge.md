@@ -27,3 +27,6 @@ showbreadcrumbs = true #顶部显示当前路径
 
 这样在 **服务费** 中修改任何你想加收的服务费并点击 **保存**
 ![servicefee_cn.png](/img/servicefee_cn.png)
+
+**视频如下👇**
+{{< youtube id="yfx7rZ_PKgs?si=pw9q2pelpkxLXXyw" >}}
