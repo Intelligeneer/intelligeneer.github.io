@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>POSPAL on Intelligeneer Bug Free 🤐</title>
-    <link>http://localhost:1313/tags/pospal/</link>
+    <link>https://intelligeneer.github.io/tags/pospal/</link>
     <description>Recent content in POSPAL on Intelligeneer Bug Free 🤐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/pospal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://intelligeneer.github.io/tags/pospal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1 PosPal POS Training-Android Version</title>
-      <link>http://localhost:1313/en/pospal/1-pospal-pos-training-android-version/</link>
+      <link>https://intelligeneer.github.io/en/pospal/1-pospal-pos-training-android-version/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/pospal/1-pospal-pos-training-android-version/</guid>
+      <guid>https://intelligeneer.github.io/en/pospal/1-pospal-pos-training-android-version/</guid>
       <description>右上角可以选择播放列表</description>
     </item>
     <item>
       <title>1 收银端教学-安卓版 (POS Training-Android Version)</title>
-      <link>http://localhost:1313/cn/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cn/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</guid>
       <description>右上角可以选择播放列表</description>
     </item>
   </channel>

@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intelligeneer Bug Free 🤐</title>
-    <link>http://localhost:1313/</link>
+    <link>https://intelligeneer.github.io/</link>
     <description>Recent content on Intelligeneer Bug Free 🤐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Mar 2024 10:34:13 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://intelligeneer.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Public Surcharge Set up</title>
-      <link>http://localhost:1313/en/pospal/public_surcharge/</link>
+      <link>https://intelligeneer.github.io/en/pospal/public_surcharge/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/pospal/public_surcharge/</guid>
+      <guid>https://intelligeneer.github.io/en/pospal/public_surcharge/</guid>
       <description>Login to you PosPal account on Back Office PosPal Login Website: https://anz.pospal.cn/ and then on Left-hand side find Settings &amp;mdash;&amp;gt; System Settings on Right-hand side find Sales tax &amp;amp; Service tax setting Press Edit and change Service Fee to any Public Surcharge you want to set</description>
     </item>
     <item>
       <title>在没有网络的情况下，使用手机热点登入点单系统</title>
-      <link>http://localhost:1313/cn/pospal/change_internet/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/change_internet/</link>
       <pubDate>Mon, 18 Mar 2024 15:30:57 +1000</pubDate>
-      <guid>http://localhost:1313/cn/pospal/change_internet/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/change_internet/</guid>
       <description>本章我们讲解一下，在主机连接这网线的情况下如果没有了外网，但是又无法进入收银界面该如何操作。 首先我们去到界面左下角第五个按键 关闭Ethern</description>
     </item>
     <item>
       <title>在没有网络的情况下，使用手机热点登入点单系统</title>
-      <link>http://localhost:1313/en/pospal/change_internet/</link>
+      <link>https://intelligeneer.github.io/en/pospal/change_internet/</link>
       <pubDate>Mon, 18 Mar 2024 15:30:57 +1000</pubDate>
-      <guid>http://localhost:1313/en/pospal/change_internet/</guid>
+      <guid>https://intelligeneer.github.io/en/pospal/change_internet/</guid>
       <description>本章我们讲解一下，在主机连接这网线的情况下如果没有了外网，但是又无法进入收银界面该如何操作。 首先我们去到界面左下角第五个按键 关闭Ethern</description>
     </item>
     <item>
       <title>test</title>
-      <link>http://localhost:1313/robot/first/</link>
+      <link>https://intelligeneer.github.io/robot/first/</link>
       <pubDate>Mon, 18 Mar 2024 14:38:28 +1000</pubDate>
-      <guid>http://localhost:1313/robot/first/</guid>
+      <guid>https://intelligeneer.github.io/robot/first/</guid>
       <description>Test Thor</description>
     </item>
     <item>
       <title>1 PosPal POS Training-Android Version</title>
-      <link>http://localhost:1313/en/pospal/1-pospal-pos-training-android-version/</link>
+      <link>https://intelligeneer.github.io/en/pospal/1-pospal-pos-training-android-version/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/pospal/1-pospal-pos-training-android-version/</guid>
+      <guid>https://intelligeneer.github.io/en/pospal/1-pospal-pos-training-android-version/</guid>
       <description>右上角可以选择播放列表</description>
     </item>
     <item>
       <title>1 收银端教学-安卓版 (POS Training-Android Version)</title>
-      <link>http://localhost:1313/cn/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cn/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</guid>
       <description>右上角可以选择播放列表</description>
     </item>
     <item>
       <title>2 PosPal POS Training - Membership Function</title>
-      <link>http://localhost:1313/en/pospal/2-pos_membership/</link>
+      <link>https://intelligeneer.github.io/en/pospal/2-pos_membership/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/pospal/2-pos_membership/</guid>
+      <guid>https://intelligeneer.github.io/en/pospal/2-pos_membership/</guid>
       <description>右上角可以选择播放列表</description>
     </item>
     <item>
       <title>2 收银端教学 - 会员功能</title>
-      <link>http://localhost:1313/cn/pospal/2-pos_membership/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/2-pos_membership/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cn/pospal/2-pos_membership/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/2-pos_membership/</guid>
       <description>右上角可以选择播放列表</description>
     </item>
     <item>
       <title>3 AdaPay EFTPOS</title>
-      <link>http://localhost:1313/cn/pospal/3-adapay_eftpos/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/3-adapay_eftpos/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cn/pospal/3-adapay_eftpos/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/3-adapay_eftpos/</guid>
       <description>右上角可以选择播放列表</description>
     </item>
     <item>
       <title>3 AdaPay EFTPOS</title>
-      <link>http://localhost:1313/en/pospal/3-adapay_eftpos/</link>
+      <link>https://intelligeneer.github.io/en/pospal/3-adapay_eftpos/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/pospal/3-adapay_eftpos/</guid>
+      <guid>https://intelligeneer.github.io/en/pospal/3-adapay_eftpos/</guid>
       <description>右上角可以选择播放列表</description>
     </item>
     <item>
       <title>4 后台教学 - 中文</title>
-      <link>http://localhost:1313/cn/pospal/4-backoffice_cn/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/4-backoffice_cn/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cn/pospal/4-backoffice_cn/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/4-backoffice_cn/</guid>
       <description>右上角可以选择播放列表</description>
     </item>
     <item>
       <title>4 Back Office - English Ver</title>
-      <link>http://localhost:1313/en/pospal/4-backoffice_eng/</link>
+      <link>https://intelligeneer.github.io/en/pospal/4-backoffice_eng/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/pospal/4-backoffice_eng/</guid>
+      <guid>https://intelligeneer.github.io/en/pospal/4-backoffice_eng/</guid>
       <description>右上角可以选择播放列表</description>
     </item>
     <item>
       <title>这是银豹系统的一个视频Training网站</title>
-      <link>http://localhost:1313/cn/pospal/0-readme/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/0-readme/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cn/pospal/0-readme/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/0-readme/</guid>
       <description>这是银豹系统的一个视频Training网站</description>
     </item>
     <item>
       <title>这是银豹系统的一个视频Training网站</title>
-      <link>http://localhost:1313/en/pospal/0-readme/</link>
+      <link>https://intelligeneer.github.io/en/pospal/0-readme/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/pospal/0-readme/</guid>
+      <guid>https://intelligeneer.github.io/en/pospal/0-readme/</guid>
       <description>这是银豹系统的一个视频Training网站</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://intelligeneer.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://intelligeneer.github.io/about/</guid>
       <description>佛祖保佑 永无bug _ooOoo_ o8888888o 88&#34; . &#34;88 (| -_- |) O\ = /O ____/`---&#39;\____ .&#39; \\| |// `. / \\||| : |||// \ / _||||| -:- |||||- \ | | \\\ - /// | | | \_| &#39;&#39;\---/&#39;&#39; | | \ .-\__ `-` ___/-. / ___`. .&#39; /--.--\ `. . __ .&#34;&#34; &#39;&lt; `.___\_&lt;|&gt;_/___.&#39; &gt;&#39;&#34;&#34;. | | : ` - `.;`\ _ /`;.`/</description>
     </item>
   </channel>
