@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pospal on Intelligeneer Bug Free 🤐</title>
-    <link>https://intelligeneer.github.io/en/pospal/</link>
-    <description>Recent content in Pospal on Intelligeneer Bug Free 🤐</description>
+    <title>Pospal on Intelligeneer BUG BS 🤐</title>
+    <link>http://localhost:1313/en/pospal/</link>
+    <description>Recent content in Pospal on Intelligeneer BUG BS 🤐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Mar 2024 10:34:13 +1000</lastBuildDate>
-    <atom:link href="https://intelligeneer.github.io/en/pospal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/pospal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Public Surcharge Set up</title>
-      <link>https://intelligeneer.github.io/en/pospal/public_surcharge/</link>
+      <link>http://localhost:1313/en/pospal/public_surcharge/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/en/pospal/public_surcharge/</guid>
+      <guid>http://localhost:1313/en/pospal/public_surcharge/</guid>
       <description>Login to you PosPal account on Back Office PosPal Login Website: https://anz.pospal.cn/ and then on Left-hand side find Settings &amp;mdash;&amp;gt; System Settings on Right-hand side find Sales tax &amp;amp; Service tax setting Press Edit and change Service Fee to any Public Surcharge you want to set and Save Video Down Below👇</description>
     </item>
     <item>
       <title>Using a mobile hotspot to Login the PosPal system without internet access</title>
-      <link>https://intelligeneer.github.io/en/pospal/change_internet/</link>
+      <link>http://localhost:1313/en/pospal/change_internet/</link>
       <pubDate>Mon, 18 Mar 2024 15:30:57 +1000</pubDate>
-      <guid>https://intelligeneer.github.io/en/pospal/change_internet/</guid>
+      <guid>http://localhost:1313/en/pospal/change_internet/</guid>
       <description>In this chapter, We gonna Using a mobile hotspot to Login the PosPal system without internet access&#xA;First we need to find the Fifth Button on bottom Left Corner&#xA;Turn Off Ethernet Button Switch to WiFi Section Turn On WiFi Button After Turn On WiFi, Press More Settings Make Sure your Mobile Hotspot is On and also turn on the Maximize Compatibility Select your Mobile Hotspot and input the Password then Back to the Login Page, and login with your Staff account After that you can see the Ordering Page On the Order Page, back to the Fifth Button on bottom Left Corner To the WiFi Section, Turn Off the WiFi Button and then Switch to Ethernet Section, turn on the Ethernet This way, the ordering system can be used to place orders offline, and the kitchen printer and KDS can still function normally.</description>
     </item>
     <item>
       <title>1 PosPal POS Training-Android Version</title>
-      <link>https://intelligeneer.github.io/en/pospal/1-pospal-pos-training-android-version/</link>
+      <link>http://localhost:1313/en/pospal/1-pospal-pos-training-android-version/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/en/pospal/1-pospal-pos-training-android-version/</guid>
+      <guid>http://localhost:1313/en/pospal/1-pospal-pos-training-android-version/</guid>
       <description>1 Login to POSPAL System 2 Handover on POS 3 Reprint Tax Invoice 4 Refund on POSPAL end 5 Set sold out item on POS end 6 Restore Stock on POS 7 Change or Increase Price on POS 8 Hold order under Table No., Normally Using for Pay after or Phone Takeaway 9 Complete Order under Table No. 10 Order and Go on POS 11 Choose Item Flavour on POS 12 Data synchronization on POS when did lots of change on Back-end 13 Change Item names on POS 14 Open Cash Drawer on POS 15 Temporary Holding Order on POS 16 Bind Kitchen IP address or KDS IP address on POS 17 Check Ethernet IP Address on Main POS Machine 18 Check Wi-Fi IP address on Main POS 19 Add Main POS IP Address on Secondary POS 20 Bind Item to specified Kitchen Printer on POS end 21 Add new Item on POS end 22 Items connect to Kitchen Printer Choose Episode on Top Right Corner </description>
     </item>
     <item>
       <title>2 PosPal POS Training - Membership Function</title>
-      <link>https://intelligeneer.github.io/en/pospal/2-pos_membership/</link>
+      <link>http://localhost:1313/en/pospal/2-pos_membership/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/en/pospal/2-pos_membership/</guid>
+      <guid>http://localhost:1313/en/pospal/2-pos_membership/</guid>
       <description>1 Add New Member on POS 2 Choose Member to earn point on POS 3 Use Member point to redeem Item on Member Page 4 Member Recharge on POS 5 Use Member Balance on POS 6 Using Member points on POS 7 Use Mix Payment when Member don&amp;rsquo;t have enough Balance 8 Redeem Item on POS 9 Using Voucher on POS end Choose Episode on Top Right Corner</description>
     </item>
     <item>
       <title>3 AdaPay EFTPOS</title>
-      <link>https://intelligeneer.github.io/en/pospal/3-adapay_eftpos/</link>
+      <link>http://localhost:1313/en/pospal/3-adapay_eftpos/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/en/pospal/3-adapay_eftpos/</guid>
+      <guid>http://localhost:1313/en/pospal/3-adapay_eftpos/</guid>
       <description>1 Configuration Update on Adapay EFTPOS 2 Check and Reset daily total sales on Adapay EFTPOS Machine 3 Switch Network on Adapay EFTPOS Machin 4 Check and Reprint Merchant or Customer Receipt on Adapay EFTPOS Machine 5 AdaPay Customer with Standalone EFTPOS, Check Total Transaction Report Choose Episode on Top Right Corner </description>
     </item>
     <item>
       <title>4 Back Office - English Ver</title>
-      <link>https://intelligeneer.github.io/en/pospal/4-backoffice_eng/</link>
+      <link>http://localhost:1313/en/pospal/4-backoffice_eng/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/en/pospal/4-backoffice_eng/</guid>
+      <guid>http://localhost:1313/en/pospal/4-backoffice_eng/</guid>
       <description>1 Login to POSPAL Back Office 2 Add new items, photos, setup Kitchen Printer on Back Office 3 Edit item name, Photo Kitchen Printer on Back end 4 Add new Category on Back Office 5 Change kitchen printer for multiple items on Back Office 6 Change Categories or items Position on Back Office 7 Add Flavour choice for Items on Back Office 8 Set Staff Login ID and Password and Limitation on Back Office 9 Make a Combo on Back Office 10 Download Transaction Report on Back Office 11 Add Kitchen Printer Section on Back Office 12 Set Public Holiday Surcharge on Back Office 13 Set Whole store 10% off Discount on Back Office 14 Check and Export AdaPay Transaction Report 15 Turn Off QR Code Online Ordering on Back Office 16 Turn On QR Code Online Ordering on Back Office 17 Change Trading hours on Back Office 18 Hide item on QR code, but still show on Main POS Choose Episode on Top Right Corner </description>
     </item>
     <item>
       <title>This is a PosPal Training Website</title>
-      <link>https://intelligeneer.github.io/en/pospal/0-readme/</link>
+      <link>http://localhost:1313/en/pospal/0-readme/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/en/pospal/0-readme/</guid>
+      <guid>http://localhost:1313/en/pospal/0-readme/</guid>
       <description>This is a PosPal Training Website</description>
     </item>
   </channel>
