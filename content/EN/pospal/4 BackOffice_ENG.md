@@ -57,6 +57,8 @@ draft = false
 **17 Change Trading hours on Back Office**
 {{< youtube id="playlist?list=PLARAy0Gh8lsZ3w_sGJgF4XMt6TdPasdlG&si=CFEIqE54SFX94ROj&index=17" >}}
 
+**18 Hide item on QR code, but still show on Main POS**
+{{< youtube id="playlist?list=PLARAy0Gh8lsZ3w_sGJgF4XMt6TdPasdlG&si=CFEIqE54SFX94ROj&index=18" >}}
 
 **Choose Episode on Top Right Corner**
 {{< youtube id="videoseries?list=PLARAy0Gh8lsZ3w_sGJgF4XMt6TdPasdlG"  start="0" >}}

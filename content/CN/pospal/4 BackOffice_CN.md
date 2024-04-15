@@ -57,5 +57,8 @@ draft = false
 **17 在后台修改营业时间**
 {{< youtube id="playlist?list=PLARAy0Gh8lsYMvk_qe13XEUjOuryeaorE&si=vXlnb69e2B0cn0RB&index=17" >}}
 
+**18 后台隐藏菜品，只给收银端看，不给QR下单看**
+{{< youtube id="playlist?list=PLARAy0Gh8lsYMvk_qe13XEUjOuryeaorE&si=vXlnb69e2B0cn0RB&index=18" >}}
+
 右上角可以选择播放列表
 {{< youtube id="videoseries?list=PLARAy0Gh8lsYMvk_qe13XEUjOuryeaorE"  start="0" >}}

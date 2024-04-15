@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BackOffice_CN on Intelligeneer Bug Free 🤐</title>
-    <link>https://intelligeneer.github.io/tags/backoffice_cn/</link>
+    <link>http://localhost:1313/tags/backoffice_cn/</link>
     <description>Recent content in BackOffice_CN on Intelligeneer Bug Free 🤐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://intelligeneer.github.io/tags/backoffice_cn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/backoffice_cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>4 后台教学 - 中文</title>
-      <link>https://intelligeneer.github.io/cn/pospal/4-backoffice_cn/</link>
+      <link>http://localhost:1313/cn/pospal/4-backoffice_cn/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/cn/pospal/4-backoffice_cn/</guid>
+      <guid>http://localhost:1313/cn/pospal/4-backoffice_cn/</guid>
       <description>1 登入银豹后台 2 在后台添加新的商品，图片，厨房打印机设置 3 在后台修改商品名称，价格，图片，厨房打印设置 4 在后台添加新的分类 5 在后台批量设置商</description>
     </item>
   </channel>
