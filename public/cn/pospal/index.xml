@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pospal on Intelligeneer Bug Free 🤐</title>
-    <link>http://localhost:1313/cn/pospal/</link>
+    <link>https://intelligeneer.github.io/cn/pospal/</link>
     <description>Recent content in Pospal on Intelligeneer Bug Free 🤐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Mar 2024 10:34:13 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/cn/pospal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://intelligeneer.github.io/cn/pospal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>公共假期手续费设置</title>
-      <link>http://localhost:1313/cn/pospal/public_surcharge/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/public_surcharge/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cn/pospal/public_surcharge/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/public_surcharge/</guid>
       <description>登入到银豹后台 银豹登入链接: https://anz.pospal.cn/ 在左手边找到 设置 &amp;mdash;&amp;gt; 系统设置 在右手边找到 消费税服务费设置 点击 编辑 这样在 服务费 中修改任何你想加收的服务费并点击 保存</description>
     </item>
     <item>
       <title>在没有网络的情况下，使用手机热点登入点单系统</title>
-      <link>http://localhost:1313/cn/pospal/change_internet/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/change_internet/</link>
       <pubDate>Mon, 18 Mar 2024 15:30:57 +1000</pubDate>
-      <guid>http://localhost:1313/cn/pospal/change_internet/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/change_internet/</guid>
       <description>本章我们讲解一下，在主机连接这网线的情况下如果没有了外网，但是又无法进入收银界面该如何操作。 首先我们去到界面左下角第五个按键 关闭Ethern</description>
     </item>
     <item>
       <title>1 收银端教学-安卓版 (POS Training-Android Version)</title>
-      <link>http://localhost:1313/cn/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cn/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</guid>
       <description>1 前台登入收银系统 2 收银端交接班 3 重打收银小票 4 收银端做退款 5 收银端为商品做售罄 6 收银端恢复库存 7 收银端价格调整 8 收银端挂桌到桌号一般用于后</description>
     </item>
     <item>
       <title>2 收银端教学 - 会员功能</title>
-      <link>http://localhost:1313/cn/pospal/2-pos_membership/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/2-pos_membership/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cn/pospal/2-pos_membership/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/2-pos_membership/</guid>
       <description>1 收银端添加新会员 2 收银端选用会员累计积分消费 3 在会员界面使用会员积分兑换商品 4 在收银端给会员充值 5 在收银端使用会员余额 6 收银端使用会员积分</description>
     </item>
     <item>
       <title>3 AdaPay EFTPOS</title>
-      <link>http://localhost:1313/cn/pospal/3-adapay_eftpos/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/3-adapay_eftpos/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cn/pospal/3-adapay_eftpos/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/3-adapay_eftpos/</guid>
       <description>1 在Adapay刷卡机更新配置 2 在Adapay刷卡机上查看每日刷卡总额并充值 3 在Adapay刷卡机上切换 WiFi 或 4G backup 4 在Adapay刷卡机上查看</description>
     </item>
     <item>
       <title>4 后台教学 - 中文</title>
-      <link>http://localhost:1313/cn/pospal/4-backoffice_cn/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/4-backoffice_cn/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cn/pospal/4-backoffice_cn/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/4-backoffice_cn/</guid>
       <description>1 登入银豹后台 2 在后台添加新的商品，图片，厨房打印机设置 3 在后台修改商品名称，价格，图片，厨房打印设置 4 在后台添加新的分类 5 在后台批量设置商</description>
     </item>
     <item>
       <title>在收银主机绑定打印机</title>
-      <link>http://localhost:1313/cn/pospal/bind_printer/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/bind_printer/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cn/pospal/bind_printer/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/bind_printer/</guid>
       <description>前台收银系统左上角 找到 Edit Item 如果知道商品S/N,可以直接输入。如果不知道可以点击Shortcut,切换键盘 输入需要修改的商品名称 选中需要修改的</description>
     </item>
     <item>
       <title>这是银豹系统的一个视频Training网站</title>
-      <link>http://localhost:1313/cn/pospal/0-readme/</link>
+      <link>https://intelligeneer.github.io/cn/pospal/0-readme/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cn/pospal/0-readme/</guid>
+      <guid>https://intelligeneer.github.io/cn/pospal/0-readme/</guid>
       <description>这是银豹系统的一个视频Training网站</description>
     </item>
   </channel>

@@ -48,7 +48,7 @@ draft = false
 **14 银豹后台查询并导出AdaPay 刷卡记录**
 {{< youtube id="playlist?list=PLARAy0Gh8lsYMvk_qe13XEUjOuryeaorE&si=vXlnb69e2B0cn0RB&index=14" >}}
 
-**15 在后台关闭 QR Code 线上下单*
+**15 在后台关闭 QR Code 线上下单**
 {{< youtube id="playlist?list=PLARAy0Gh8lsYMvk_qe13XEUjOuryeaorE&si=vXlnb69e2B0cn0RB&index=15" >}}
 
 **16 在后台打开 QR code 线上下单**
