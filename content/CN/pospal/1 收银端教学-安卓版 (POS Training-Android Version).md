@@ -69,6 +69,10 @@ draft = false
 **21 在收银端添加新的商品**
 {{< youtube id="playlist?list=PLARAy0Gh8lsbqO01WbNTGylCQd3oOJtoe&si=bRzfMbDVlUI7E4cr&index=21" >}}
 
+**22 在收银端设置商品厨房打印机**
+{{< youtube id="playlist?list=PLARAy0Gh8lsbqO01WbNTGylCQd3oOJtoe&si=bRzfMbDVlUI7E4cr&index=22" >}}
+
+
 **合集**
 
 右上角可以选择播放列表

@@ -6,7 +6,7 @@
     <description>Recent content in Pospal on Intelligeneer Bug Free 🤐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 10:34:13 +1000</lastBuildDate>
     <atom:link href="https://intelligeneer.github.io/cn/pospal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>公共假期手续费设置</title>
@@ -14,13 +14,6 @@
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://intelligeneer.github.io/cn/pospal/public_surcharge/</guid>
       <description>登入到银豹后台 银豹登入链接: https://anz.pospal.cn/ 在左手边找到 设置 &amp;mdash;&amp;gt; 系统设置 在右手边找到 消费税服务费设置 点击 编辑 这样在 服务费 中修改任何你想加收的服务费并点击 保存</description>
-    </item>
-    <item>
-      <title>在收银主机绑定打印机</title>
-      <link>https://intelligeneer.github.io/cn/pospal/bind_printer/</link>
-      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/cn/pospal/bind_printer/</guid>
-      <description>前台收银系统左上角 找到 Edit Item 如果知道商品S/N,可以直接输入。如果不知道可以点击Shortcut,切换键盘 输入需要修改的商品名称 选中需要修改的</description>
     </item>
     <item>
       <title>在没有网络的情况下，使用手机热点登入点单系统</title>
@@ -55,7 +48,14 @@
       <link>https://intelligeneer.github.io/cn/pospal/4-backoffice_cn/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://intelligeneer.github.io/cn/pospal/4-backoffice_cn/</guid>
-      <description>1 登入银豹后台 2 在后台添加新的商品，图片，厨房打印机设置 3 在后台添加新的分类 4 在后台批量设置商品的厨房打印 5 在后台更换商品分类和商品的位置 6</description>
+      <description>1 登入银豹后台 2 在后台添加新的商品，图片，厨房打印机设置 3 在后台修改商品名称，价格，图片，厨房打印设置 4 在后台添加新的分类 5 在后台批量设置商</description>
+    </item>
+    <item>
+      <title>在收银主机绑定打印机</title>
+      <link>https://intelligeneer.github.io/cn/pospal/bind_printer/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/cn/pospal/bind_printer/</guid>
+      <description>前台收银系统左上角 找到 Edit Item 如果知道商品S/N,可以直接输入。如果不知道可以点击Shortcut,切换键盘 输入需要修改的商品名称 选中需要修改的</description>
     </item>
     <item>
       <title>这是银豹系统的一个视频Training网站</title>
