@@ -18,8 +18,15 @@ draft = false
 **4 Check and Reprint Merchant or Customer Receipt on Adapay EFTPOS Machine**
 {{< youtube id="playlist?list=PLARAy0Gh8lsaSwmNpKouDr7_lA6A-8Itl&si=YnCecXzp4SI1460K&index=4" >}}
 
-**5 AdaPay Customer with Standalone EFTPOS, Check Total Transaction Report**
+**5 Make the payment on Standalone Mode**
+{{< youtube id="playlist?list=PLARAy0Gh8lsaSwmNpKouDr7_lA6A-8Itl&si=YnCecXzp4SI1460K&index=6" >}}
+
+**6 Refund on Standalone Mode EFTPOS**
+{{< youtube id="playlist?list=PLARAy0Gh8lsaSwmNpKouDr7_lA6A-8Itl&si=YnCecXzp4SI1460K&index=7" >}}
+
+**7 AdaPay Customer with Standalone EFTPOS, Check Total Transaction Report**
 {{< youtube id="playlist?list=PLARAy0Gh8lsaSwmNpKouDr7_lA6A-8Itl&si=YnCecXzp4SI1460K&index=5" >}}
+
 
 
 **Choose Episode on Top Right Corner**

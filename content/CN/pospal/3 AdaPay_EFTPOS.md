@@ -21,7 +21,13 @@ draft = false
 **4 在Adapay刷卡机上查看交易记录并补打小票**
 {{< youtube id="playlist?list=PLARAy0Gh8lsaSwmNpKouDr7_lA6A-8Itl&si=YnCecXzp4SI1460K&index=4" >}}
 
-**5 AdaPay Customer with Standalone EFTPOS, Check Total Transaction Report**
+**5 Standalone 模式收款**
+{{< youtube id="playlist?list=PLARAy0Gh8lsaSwmNpKouDr7_lA6A-8Itl&si=YnCecXzp4SI1460K&index=6" >}}
+
+**6 在刷卡机上退款**
+{{< youtube id="playlist?list=PLARAy0Gh8lsaSwmNpKouDr7_lA6A-8Itl&si=YnCecXzp4SI1460K&index=7" >}}
+
+**7 AdaPay Customer with Standalone EFTPOS, Check Total Transaction Report**
 {{< youtube id="playlist?list=PLARAy0Gh8lsaSwmNpKouDr7_lA6A-8Itl&si=YnCecXzp4SI1460K&index=5" >}}
 
 
