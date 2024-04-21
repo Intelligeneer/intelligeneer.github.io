@@ -23,19 +23,25 @@ weight = 1
 identifier = "Pospal_en"
 name = "💻Pospal/🇦🇺"
 url = "/en/pospal/"
+weight = 3
+
+[[menu.main]]
+identifier = "Adapay_cn"
+name = "💳Adapay/🇨🇳"
+url = "/cn/adapay/"
 weight = 2
 
 [[menu.main]]
-identifier = "Robot"
-name = "🤖Robot"
-url = "/Robot/"
-weight = 3
+identifier = "Adapay_en"
+name = "💳Adapay/🇦🇺"
+url = "/en/adapay/"
+weight = 4
 
 [[menu.main]]
 identifier = "About"
 name = "😘About Us"
 url = "/about/"
-weight = 4
+weight = 5
 
 
 [params]
