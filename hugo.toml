@@ -27,13 +27,13 @@ weight = 3
 
 [[menu.main]]
 identifier = "Adapay_cn"
-name = "💳Adapay/🇨🇳"
+name = "💸Adapay/🇨🇳"
 url = "/cn/adapay/"
 weight = 2
 
 [[menu.main]]
 identifier = "Adapay_en"
-name = "💳Adapay/🇦🇺"
+name = "💸Adapay/🇦🇺"
 url = "/en/adapay/"
 weight = 4
 
