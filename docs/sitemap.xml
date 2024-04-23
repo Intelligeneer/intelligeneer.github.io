@@ -17,9 +17,6 @@
     <loc>https://intelligeneer.github.io/</loc>
     <lastmod>2024-03-25T10:34:13+10:00</lastmod>
   </url><url>
-    <loc>https://intelligeneer.github.io/cn/pospal/</loc>
-    <lastmod>2024-03-25T10:34:13+10:00</lastmod>
-  </url><url>
     <loc>https://intelligeneer.github.io/en/pospal/</loc>
     <lastmod>2024-03-25T10:34:13+10:00</lastmod>
   </url><url>
@@ -28,6 +25,9 @@
   </url><url>
     <loc>https://intelligeneer.github.io/cn/pospal/change_internet/</loc>
     <lastmod>2024-03-18T15:30:57+10:00</lastmod>
+  </url><url>
+    <loc>https://intelligeneer.github.io/cn/pospal/</loc>
+    <lastmod>2024-03-25T10:34:13+10:00</lastmod>
   </url><url>
     <loc>https://intelligeneer.github.io/robot/</loc>
     <lastmod>2024-03-18T14:38:28+10:00</lastmod>
@@ -59,19 +59,28 @@
     <loc>https://intelligeneer.github.io/en/pospal/3-adapay_eftpos/</loc>
     <lastmod>2024-03-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intelligeneer.github.io/cn/adapay/</loc>
+    <loc>https://intelligeneer.github.io/tags/adapay/</loc>
     <lastmod>2024-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://intelligeneer.github.io/en/adapay/</loc>
     <lastmod>2024-03-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://intelligeneer.github.io/tags/adapay/</loc>
+    <loc>https://intelligeneer.github.io/cn/adapay/</loc>
+    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intelligeneer.github.io/tags/mydashboard/</loc>
     <lastmod>2024-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://intelligeneer.github.io/tags/pospal/</loc>
     <lastmod>2024-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://intelligeneer.github.io/tags/</loc>
+    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intelligeneer.github.io/cn/mydashboard/</loc>
+    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intelligeneer.github.io/cn/mydashboard/mydashboard/</loc>
     <lastmod>2024-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://intelligeneer.github.io/cn/pospal/4-backoffice_cn/</loc>
@@ -96,5 +105,7 @@
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://intelligeneer.github.io/about/</loc>
+  </url><url>
+    <loc>https://intelligeneer.github.io/en/mydashboard/</loc>
   </url>
 </urlset>

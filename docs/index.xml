@@ -100,6 +100,13 @@
       <description>1 Configuration Update on Adapay EFTPOS 2 Check and Reset daily total sales on Adapay EFTPOS Machine 3 Switch Network on Adapay EFTPOS Machin 4 Check and Reprint Merchant or Customer Receipt on Adapay EFTPOS Machine 5 Make the payment on Standalone Mode 6 Refund on Standalone Mode EFTPOS 7 AdaPay Customer with Standalone EFTPOS, Check Total Transaction Report Choose Episode on Top Right Corner </description>
     </item>
     <item>
+      <title>我的店铺 - Adapay 查询</title>
+      <link>https://intelligeneer.github.io/cn/mydashboard/mydashboard/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/cn/mydashboard/mydashboard/</guid>
+      <description>苹果手机下载链接: https://apps.apple.com/au/app/pospal-dashboard/id1600254383 安卓手机下载链接: https://www.pospal.cn/dcv2.html?i=landing/download/imgs/%E6%88%91%E7%9A%84%E5%BA%97%E9%93%BAV3.png&amp;amp;n=%E6%88%91%E7%9A%84%E5%BA%97%E9%93%BAV3&amp;amp;r=https://file.pospal.cn/myshop/myshop_android_v3_2.0.20.apk&amp;amp;c=downloadpage2.0.20 1 登入银豹账号 2 确定 Policy 3 我的店铺首页 4 往下滑到 Adyen 支付 5 点开后，右上角选择日期 (只能看前一天的记录。 交</description>
+    </item>
+    <item>
       <title>4 后台教学 - 中文</title>
       <link>https://intelligeneer.github.io/cn/pospal/4-backoffice_cn/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>

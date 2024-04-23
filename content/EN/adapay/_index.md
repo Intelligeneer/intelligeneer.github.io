@@ -1,4 +1,4 @@
 ---
-title: 'Adapay'
+title: 'Adapay - Payment Method'
 hidemeta: true
 ---
