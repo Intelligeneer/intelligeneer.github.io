@@ -2,150 +2,157 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intelligeneer BUG BS 🤐</title>
-    <link>https://intelligeneer.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Intelligeneer BUG BS 🤐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Mar 2024 10:34:13 +1000</lastBuildDate>
-    <atom:link href="https://intelligeneer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Public Surcharge Set up</title>
-      <link>https://intelligeneer.github.io/en/pospal/public_surcharge/</link>
+      <link>http://localhost:1313/en/pospal/public_surcharge/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/en/pospal/public_surcharge/</guid>
+      <guid>http://localhost:1313/en/pospal/public_surcharge/</guid>
       <description>Login to you PosPal account on Back Office PosPal Login Website: https://anz.pospal.cn/ and then on Left-hand side find Settings &amp;mdash;&amp;gt; System Settings on Right-hand side find Sales tax &amp;amp; Service tax setting Press Edit and change Service Fee to any Public Surcharge you want to set and Save Video Down Below👇</description>
     </item>
     <item>
       <title>公共假期手续费设置</title>
-      <link>https://intelligeneer.github.io/cn/pospal/public_surcharge/</link>
+      <link>http://localhost:1313/cn/pospal/public_surcharge/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/cn/pospal/public_surcharge/</guid>
+      <guid>http://localhost:1313/cn/pospal/public_surcharge/</guid>
       <description>登入到银豹后台 银豹登入链接: https://anz.pospal.cn/ 在左手边找到 设置 &amp;mdash;&amp;gt; 系统设置 在右手边找到 消费税服务费设置 点击 编辑 这样在 服务费 中修改任何你想加收的服务费并点击 保存</description>
     </item>
     <item>
       <title>Using a mobile hotspot to Login the PosPal system without internet access</title>
-      <link>https://intelligeneer.github.io/en/pospal/change_internet/</link>
+      <link>http://localhost:1313/en/pospal/change_internet/</link>
       <pubDate>Mon, 18 Mar 2024 15:30:57 +1000</pubDate>
-      <guid>https://intelligeneer.github.io/en/pospal/change_internet/</guid>
+      <guid>http://localhost:1313/en/pospal/change_internet/</guid>
       <description>In this chapter, We gonna Using a mobile hotspot to Login the PosPal system without internet access&#xA;First we need to find the Fifth Button on bottom Left Corner&#xA;Turn Off Ethernet Button Switch to WiFi Section Turn On WiFi Button After Turn On WiFi, Press More Settings Make Sure your Mobile Hotspot is On and also turn on the Maximize Compatibility Select your Mobile Hotspot and input the Password then Back to the Login Page, and login with your Staff account After that you can see the Ordering Page On the Order Page, back to the Fifth Button on bottom Left Corner To the WiFi Section, Turn Off the WiFi Button and then Switch to Ethernet Section, turn on the Ethernet This way, the ordering system can be used to place orders offline, and the kitchen printer and KDS can still function normally.</description>
     </item>
     <item>
       <title>在没有网络的情况下，使用手机热点登入点单系统</title>
-      <link>https://intelligeneer.github.io/cn/pospal/change_internet/</link>
+      <link>http://localhost:1313/cn/pospal/change_internet/</link>
       <pubDate>Mon, 18 Mar 2024 15:30:57 +1000</pubDate>
-      <guid>https://intelligeneer.github.io/cn/pospal/change_internet/</guid>
+      <guid>http://localhost:1313/cn/pospal/change_internet/</guid>
       <description>本章我们讲解一下，在主机连接这网线的情况下如果没有了外网，但是又无法进入收银界面该如何操作。 首先我们去到界面左下角第五个按键 关闭Ethern</description>
     </item>
     <item>
       <title>test</title>
-      <link>https://intelligeneer.github.io/robot/first/</link>
+      <link>http://localhost:1313/robot/first/</link>
       <pubDate>Mon, 18 Mar 2024 14:38:28 +1000</pubDate>
-      <guid>https://intelligeneer.github.io/robot/first/</guid>
+      <guid>http://localhost:1313/robot/first/</guid>
       <description>Test Thor</description>
     </item>
     <item>
       <title>1 PosPal POS Training-Android Version</title>
-      <link>https://intelligeneer.github.io/en/pospal/1-pospal-pos-training-android-version/</link>
+      <link>http://localhost:1313/en/pospal/1-pospal-pos-training-android-version/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/en/pospal/1-pospal-pos-training-android-version/</guid>
+      <guid>http://localhost:1313/en/pospal/1-pospal-pos-training-android-version/</guid>
       <description>1 Login to POSPAL System 2 Handover on POS 3 Reprint Tax Invoice 4 Refund on POSPAL end 5 Set sold out item on POS end 6 Restore Stock on POS 7 Change or Increase Price on POS 8 Hold order under Table No., Normally Using for Pay after or Phone Takeaway 9 Complete Order under Table No. 10 Order and Go on POS 11 Choose Item Flavour on POS 12 Data synchronization on POS when did lots of change on Back-end 13 Change Item names on POS 14 Open Cash Drawer on POS 15 Temporary Holding Order on POS 16 Bind Kitchen IP address or KDS IP address on POS 17 Check Ethernet IP Address on Main POS Machine 18 Check Wi-Fi IP address on Main POS 19 Add Main POS IP Address on Secondary POS 20 Bind Item to specified Kitchen Printer on POS end 21 Add new Item on POS end 22 Items connect to Kitchen Printer Choose Episode on Top Right Corner </description>
     </item>
     <item>
       <title>1 收银端教学-安卓版 (POS Training-Android Version)</title>
-      <link>https://intelligeneer.github.io/cn/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</link>
+      <link>http://localhost:1313/cn/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/cn/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</guid>
+      <guid>http://localhost:1313/cn/pospal/1-%E6%94%B6%E9%93%B6%E7%AB%AF%E6%95%99%E5%AD%A6-%E5%AE%89%E5%8D%93%E7%89%88-pos-training-android-version/</guid>
       <description>1 前台登入收银系统 2 收银端交接班 3 重打收银小票 4 收银端做退款 5 收银端为商品做售罄 6 收银端恢复库存 7 收银端价格调整 8 收银端挂桌到桌号一般用于后</description>
     </item>
     <item>
       <title>2 PosPal POS Training - Membership Function</title>
-      <link>https://intelligeneer.github.io/en/pospal/2-pos_membership/</link>
+      <link>http://localhost:1313/en/pospal/2-pos_membership/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/en/pospal/2-pos_membership/</guid>
+      <guid>http://localhost:1313/en/pospal/2-pos_membership/</guid>
       <description>1 Add New Member on POS 2 Choose Member to earn point on POS 3 Use Member point to redeem Item on Member Page 4 Member Recharge on POS 5 Use Member Balance on POS 6 Using Member points on POS 7 Use Mix Payment when Member don&amp;rsquo;t have enough Balance 8 Redeem Item on POS 9 Using Voucher on POS end Choose Episode on Top Right Corner</description>
     </item>
     <item>
       <title>2 收银端教学 - 会员功能</title>
-      <link>https://intelligeneer.github.io/cn/pospal/2-pos_membership/</link>
+      <link>http://localhost:1313/cn/pospal/2-pos_membership/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/cn/pospal/2-pos_membership/</guid>
+      <guid>http://localhost:1313/cn/pospal/2-pos_membership/</guid>
       <description>1 收银端添加新会员 2 收银端选用会员累计积分消费 3 在会员界面使用会员积分兑换商品 4 在收银端给会员充值 5 在收银端使用会员余额 6 收银端使用会员积分</description>
     </item>
     <item>
       <title>3 AdaPay EFTPOS</title>
-      <link>https://intelligeneer.github.io/cn/adapay/adapay/</link>
+      <link>http://localhost:1313/cn/adapay/adapay/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/cn/adapay/adapay/</guid>
+      <guid>http://localhost:1313/cn/adapay/adapay/</guid>
       <description>1 在Adapay刷卡机更新配置 2 在Adapay刷卡机上查看每日刷卡总额并充值 3 在Adapay刷卡机上切换 WiFi 或 4G backup 4 在Adapay刷卡机上查看</description>
     </item>
     <item>
       <title>3 AdaPay EFTPOS</title>
-      <link>https://intelligeneer.github.io/cn/pospal/3-adapay_eftpos/</link>
+      <link>http://localhost:1313/cn/pospal/3-adapay_eftpos/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/cn/pospal/3-adapay_eftpos/</guid>
+      <guid>http://localhost:1313/cn/pospal/3-adapay_eftpos/</guid>
       <description>1 在Adapay刷卡机更新配置 2 在Adapay刷卡机上查看每日刷卡总额并充值 3 在Adapay刷卡机上切换 WiFi 或 4G backup 4 在Adapay刷卡机上查看</description>
     </item>
     <item>
       <title>3 AdaPay EFTPOS</title>
-      <link>https://intelligeneer.github.io/en/adapay/adapay/</link>
+      <link>http://localhost:1313/en/adapay/adapay/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/en/adapay/adapay/</guid>
+      <guid>http://localhost:1313/en/adapay/adapay/</guid>
       <description>1 Configuration Update on Adapay EFTPOS 2 Check and Reset daily total sales on Adapay EFTPOS Machine 3 Switch Network on Adapay EFTPOS Machin 4 Check and Reprint Merchant or Customer Receipt on Adapay EFTPOS Machine 5 Make the payment on Standalone Mode 6 Refund on Standalone Mode EFTPOS 7 AdaPay Customer with Standalone EFTPOS, Check Total Transaction Report Choose Episode on Top Right Corner </description>
     </item>
     <item>
       <title>3 AdaPay EFTPOS</title>
-      <link>https://intelligeneer.github.io/en/pospal/3-adapay_eftpos/</link>
+      <link>http://localhost:1313/en/pospal/3-adapay_eftpos/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/en/pospal/3-adapay_eftpos/</guid>
+      <guid>http://localhost:1313/en/pospal/3-adapay_eftpos/</guid>
       <description>1 Configuration Update on Adapay EFTPOS 2 Check and Reset daily total sales on Adapay EFTPOS Machine 3 Switch Network on Adapay EFTPOS Machin 4 Check and Reprint Merchant or Customer Receipt on Adapay EFTPOS Machine 5 Make the payment on Standalone Mode 6 Refund on Standalone Mode EFTPOS 7 AdaPay Customer with Standalone EFTPOS, Check Total Transaction Report Choose Episode on Top Right Corner </description>
+    </item>
+    <item>
+      <title>Pospal Dashbard - Adapay Inquire</title>
+      <link>http://localhost:1313/en/mydashboard/mydashboard/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/mydashboard/mydashboard/</guid>
+      <description>iPhone Download Link https://apps.apple.com/au/app/pospal-dashboard/id1600254383&#xA;Android Phone Download Link https://www.pospal.cn/dcv2.html?i=landing/download/imgs/%E6%88%91%E7%9A%84%E5%BA%97%E9%93%BAV3.png&amp;amp;n=%E6%88%91%E7%9A%84%E5%BA%97%E9%93%BAV3&amp;amp;r=https://file.pospal.cn/myshop/myshop_android_v3_2.0.20.apk&amp;amp;c=downloadpage2.0.20&#xA;1 Login to your Pospal Account 2 Agree Policies 3 Pospal Dashboard Home Page 4 Scroll Down to Adyen Transaction 5 On the Right Corner, Select Date (Report only available the day before, however failure transaction record is real time) 6 Failure transaction record </description>
     </item>
     <item>
       <title>我的店铺 - Adapay 查询</title>
-      <link>https://intelligeneer.github.io/cn/mydashboard/mydashboard/</link>
+      <link>http://localhost:1313/cn/mydashboard/mydashboard/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/cn/mydashboard/mydashboard/</guid>
+      <guid>http://localhost:1313/cn/mydashboard/mydashboard/</guid>
       <description>苹果手机下载链接: https://apps.apple.com/au/app/pospal-dashboard/id1600254383 安卓手机下载链接: https://www.pospal.cn/dcv2.html?i=landing/download/imgs/%E6%88%91%E7%9A%84%E5%BA%97%E9%93%BAV3.png&amp;amp;n=%E6%88%91%E7%9A%84%E5%BA%97%E9%93%BAV3&amp;amp;r=https://file.pospal.cn/myshop/myshop_android_v3_2.0.20.apk&amp;amp;c=downloadpage2.0.20 1 登入银豹账号 2 确定 Policy 3 我的店铺首页 4 往下滑到 Adyen 支付 5 点开后，右上角选择日期 (只能看前一天的记录。 交</description>
     </item>
     <item>
       <title>4 后台教学 - 中文</title>
-      <link>https://intelligeneer.github.io/cn/pospal/4-backoffice_cn/</link>
+      <link>http://localhost:1313/cn/pospal/4-backoffice_cn/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/cn/pospal/4-backoffice_cn/</guid>
+      <guid>http://localhost:1313/cn/pospal/4-backoffice_cn/</guid>
       <description>1 登入银豹后台 2 在后台添加新的商品，图片，厨房打印机设置 3 在后台修改商品名称，价格，图片，厨房打印设置 4 在后台添加新的分类 5 在后台批量设置商</description>
     </item>
     <item>
       <title>4 Back Office - English Ver</title>
-      <link>https://intelligeneer.github.io/en/pospal/4-backoffice_eng/</link>
+      <link>http://localhost:1313/en/pospal/4-backoffice_eng/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/en/pospal/4-backoffice_eng/</guid>
+      <guid>http://localhost:1313/en/pospal/4-backoffice_eng/</guid>
       <description>1 Login to POSPAL Back Office 2 Add new items, photos, setup Kitchen Printer on Back Office 3 Edit item name, Photo Kitchen Printer on Back end 4 Add new Category on Back Office 5 Change kitchen printer for multiple items on Back Office 6 Change Categories or items Position on Back Office 7 Add Flavour choice for Items on Back Office 8 Set Staff Login ID and Password and Limitation on Back Office 9 Make a Combo on Back Office 10 Download Transaction Report on Back Office 11 Add Kitchen Printer Section on Back Office 12 Set Public Holiday Surcharge on Back Office 13 Set Whole store 10% off Discount on Back Office 14 Check and Export AdaPay Transaction Report 15 Turn Off QR Code Online Ordering on Back Office 16 Turn On QR Code Online Ordering on Back Office 17 Change Trading hours on Back Office 18 Hide item on QR code, but still show on Main POS Choose Episode on Top Right Corner </description>
     </item>
     <item>
       <title>This is a PosPal Training Website</title>
-      <link>https://intelligeneer.github.io/en/pospal/0-readme/</link>
+      <link>http://localhost:1313/en/pospal/0-readme/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/en/pospal/0-readme/</guid>
+      <guid>http://localhost:1313/en/pospal/0-readme/</guid>
       <description>This is a PosPal Training Website</description>
     </item>
     <item>
       <title>在收银主机绑定打印机</title>
-      <link>https://intelligeneer.github.io/cn/pospal/bind_printer/</link>
+      <link>http://localhost:1313/cn/pospal/bind_printer/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/cn/pospal/bind_printer/</guid>
+      <guid>http://localhost:1313/cn/pospal/bind_printer/</guid>
       <description>前台收银系统左上角 找到 Edit Item 如果知道商品S/N,可以直接输入。如果不知道可以点击Shortcut,切换键盘 输入需要修改的商品名称 选中需要修改的</description>
     </item>
     <item>
       <title>这是银豹系统的一个视频Training网站</title>
-      <link>https://intelligeneer.github.io/cn/pospal/0-readme/</link>
+      <link>http://localhost:1313/cn/pospal/0-readme/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/cn/pospal/0-readme/</guid>
+      <guid>http://localhost:1313/cn/pospal/0-readme/</guid>
       <description>这是银豹系统的一个视频Training网站</description>
     </item>
     <item>
       <title></title>
-      <link>https://intelligeneer.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>佛祖保佑 永无bug _ooOoo_ o8888888o 88&#34; . &#34;88 (| -_- |) O\ = /O ____/`---&#39;\____ .&#39; \\| |// `. / \\||| : |||// \ / _||||| -:- |||||- \ | | \\\ - /// | | | \_| &#39;&#39;\---/&#39;&#39; | | \ .-\__ `-` ___/-. / ___`. .&#39; /--.--\ `. . __ .&#34;&#34; &#39;&lt; `.___\_&lt;|&gt;_/___.&#39; &gt;&#39;&#34;&#34;. | | : ` - `.;`\ _ /`;.`/</description>
     </item>
   </channel>

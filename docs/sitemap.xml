@@ -74,6 +74,12 @@
     <loc>https://intelligeneer.github.io/tags/pospal/</loc>
     <lastmod>2024-03-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://intelligeneer.github.io/en/mydashboard/mydashboard/</loc>
+    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://intelligeneer.github.io/en/mydashboard/</loc>
+    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://intelligeneer.github.io/tags/</loc>
     <lastmod>2024-03-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -105,7 +111,5 @@
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://intelligeneer.github.io/about/</loc>
-  </url><url>
-    <loc>https://intelligeneer.github.io/en/mydashboard/</loc>
   </url>
 </urlset>

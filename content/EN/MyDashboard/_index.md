@@ -1,4 +1,4 @@
 ---
-title: 'MyDashboard - Mobile App'
+title: 'Pospal Dashboard'
 hidemeta: true
 ---
