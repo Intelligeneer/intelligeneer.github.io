@@ -14,34 +14,22 @@ buildExpired = 'false'
 
 [menu]
 [[menu.main]]
-identifier = "Pospal_cn"
-name = "💻Pospal/🇨🇳"
-url = "/cn/pospal/"
+identifier = "中文"
+name = "中文/🇨🇳"
+url = "/cn"
 weight = 1
 
 [[menu.main]]
-identifier = "Pospal_en"
-name = "💻Pospal/🇦🇺"
-url = "/en/pospal/"
-weight = 3
-
-[[menu.main]]
-identifier = "Adapay_cn"
-name = "💸Adapay/🇨🇳"
-url = "/cn/adapay/"
+identifier = "English"
+name = "English/🇦🇺"
+url = "/en"
 weight = 2
-
-[[menu.main]]
-identifier = "Adapay_en"
-name = "💸Adapay/🇦🇺"
-url = "/en/adapay/"
-weight = 4
 
 [[menu.main]]
 identifier = "About"
 name = "😘About Us"
 url = "/about/"
-weight = 5
+weight = 3
 
 
 [params]

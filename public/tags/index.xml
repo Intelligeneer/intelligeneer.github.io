@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Intelligeneer BUG BS 🤐</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://intelligeneer.github.io/tags/</link>
     <description>Recent content in Tags on Intelligeneer BUG BS 🤐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://intelligeneer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AdaPay</title>
-      <link>http://localhost:1313/tags/adapay/</link>
+      <link>https://intelligeneer.github.io/tags/adapay/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/adapay/</guid>
+      <guid>https://intelligeneer.github.io/tags/adapay/</guid>
       <description></description>
     </item>
     <item>
       <title>MyDashboard</title>
-      <link>http://localhost:1313/tags/mydashboard/</link>
+      <link>https://intelligeneer.github.io/tags/mydashboard/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mydashboard/</guid>
+      <guid>https://intelligeneer.github.io/tags/mydashboard/</guid>
       <description></description>
     </item>
     <item>
       <title>POSPAL</title>
-      <link>http://localhost:1313/tags/pospal/</link>
+      <link>https://intelligeneer.github.io/tags/pospal/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pospal/</guid>
+      <guid>https://intelligeneer.github.io/tags/pospal/</guid>
       <description></description>
     </item>
     <item>
       <title>BackOffice_CN</title>
-      <link>http://localhost:1313/tags/backoffice_cn/</link>
+      <link>https://intelligeneer.github.io/tags/backoffice_cn/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/backoffice_cn/</guid>
+      <guid>https://intelligeneer.github.io/tags/backoffice_cn/</guid>
       <description></description>
     </item>
     <item>
       <title>BackOffice_ENG</title>
-      <link>http://localhost:1313/tags/backoffice_eng/</link>
+      <link>https://intelligeneer.github.io/tags/backoffice_eng/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/backoffice_eng/</guid>
+      <guid>https://intelligeneer.github.io/tags/backoffice_eng/</guid>
       <description></description>
     </item>
   </channel>
