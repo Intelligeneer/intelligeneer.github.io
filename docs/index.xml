@@ -37,6 +37,13 @@
       <description>首先连接好商家店内的WiFi (很重要，这一步是用来确定商家店内网段) 在 Windows 上，打开 &amp;ldquo;Commannd&amp;rdquo; (如下图) 在 Mac 上，打开 &amp;ldquo;Terminal&amp;rdquo; (如下图) 输入 ipconfig，即</description>
     </item>
     <item>
+      <title>葵花宝典</title>
+      <link>https://intelligeneer.github.io/internal_use/khbd/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/internal_use/khbd/</guid>
+      <description>小葵花妈妈课堂开课辣 1. 网店分类隐藏，只对先支付二维码有效，后支付二维码无法隐藏分类 2. 确认商家不在售卖此商品时可使用 &amp;ldquo;启用或禁用&amp;</description>
+    </item>
+    <item>
       <title>Using a mobile hotspot to Login the PosPal system without internet access</title>
       <link>https://intelligeneer.github.io/en/pospal/change_internet/</link>
       <pubDate>Mon, 18 Mar 2024 15:30:57 +1000</pubDate>
