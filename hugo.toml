@@ -26,10 +26,16 @@ url = "/en"
 weight = 2
 
 [[menu.main]]
+identifier = "Internal Use"
+name = "🗃️Internal Use"
+url = "/Internal_Use/"
+weight = 3
+
+[[menu.main]]
 identifier = "About"
 name = "😘About Us"
 url = "/about/"
-weight = 3
+weight = 4
 
 
 [params]
