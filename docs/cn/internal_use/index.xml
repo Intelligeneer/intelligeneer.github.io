@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>内部使用手册 on Intelligeneer BUG BS 🤐</title>
+    <link>https://intelligeneer.github.io/cn/internal_use/</link>
+    <description>Recent content in 内部使用手册 on Intelligeneer BUG BS 🤐</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://intelligeneer.github.io/cn/internal_use/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>安装需要注意事项</title>
+      <link>https://intelligeneer.github.io/cn/internal_use/install/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/cn/internal_use/install/</guid>
+      <description>首先连接好商家店内的WiFi (很重要，这一步是用来确定商家店内网段) 在 Windows 上，打开 &amp;ldquo;Commannd&amp;rdquo; (如下图) 在 Mac 上，打开 &amp;ldquo;Terminal&amp;rdquo; (如下图) 输入 ipconfig，即</description>
+    </item>
+  </channel>
+</rss>
