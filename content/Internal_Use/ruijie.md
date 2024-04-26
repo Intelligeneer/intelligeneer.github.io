@@ -4,7 +4,7 @@ categories = ["POSPAL", "Training"]
 tags = ["Internal_Use"]
 date = 2024-04-26
 draft = false
-author = 'Chirs'
+author = 'Chris'
 +++
 
 **Ruijie 安装** 

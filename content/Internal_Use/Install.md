@@ -4,7 +4,7 @@ categories = ["POSPAL", "Training"]
 tags = ["Internal_Use"]
 date = 2024-04-26
 draft = false
-author = 'Chirs'
+author = 'Chris'
 +++
 
 **首先连接好商家店内的WiFi (很重要，这一步是用来确定商家店内网段)**
