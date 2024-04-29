@@ -16,7 +16,10 @@ weight = 1 # 输入1可以顶置文章，用来给文章展示排序，不填就
 **在 Mac 上，打开 "Terminal" (如下图)**
 ![terminal.png](/img/terminal.png)
 
-**输入 ipconfig，即可查看到当前 Windows电脑的IP地址。 也能确定商家店内网络的网段**
+```
+输入 ipconfig
+```
+即可查看到当前 Windows电脑的IP地址。 也能确定商家店内网络的网段
 ![ipconfig.png](/img/ipconfig.png)
 
 **在 Mac 上，按住 "Option" + 点击WiFi 图标即可查看到当前 Mac电脑的IP地址。**
@@ -24,7 +27,11 @@ weight = 1 # 输入1可以顶置文章，用来给文章展示排序，不填就
 
 **POS设备，我们尽可能把网段设置在 200 以后 (如：192.168.1.200)。并且我们要确定此网段是否被使用**
 
-**如何检查此网段是否被使用 ---> 在 Command 或者 Terminal 中输入 ping 192.168.1.200**
+**如何检查此网段是否被使用 ---> 在 Command 或者 Terminal 中输入** 
+
+```
+ping 192.168.1.200
+```
 **如果看到有毫秒的显示，就说明此网段被使用了**
 ![ping.png](/img/ping.png)
 
