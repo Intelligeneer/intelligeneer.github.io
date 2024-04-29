@@ -30,6 +30,13 @@
       <description>登入到银豹后台 银豹登入链接: https://anz.pospal.cn/ 在左手边找到 设置 &amp;mdash;&amp;gt; 系统设置 在右手边找到 消费税服务费设置 点击 编辑 这样在 服务费 中修改任何你想加收的服务费并点击 保存</description>
     </item>
     <item>
+      <title>ArmPOS 打印机IP修改</title>
+      <link>https://intelligeneer.github.io/internal_use/armpos_ip/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/internal_use/armpos_ip/</guid>
+      <description>请注意：此打印机只能在带有网线口的Windows上设置 自检打印机，查看打印机的IP地址 (如 192.168.123.200) 现在去到 Windows 电脑的控制面板 (Control Panel) 点开 查看网络状态和任</description>
+    </item>
+    <item>
       <title>Ruijie安装</title>
       <link>https://intelligeneer.github.io/internal_use/ruijie/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>

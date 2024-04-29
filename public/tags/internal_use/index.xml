@@ -9,18 +9,25 @@
     <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://intelligeneer.github.io/tags/internal_use/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ruijie安装</title>
-      <link>https://intelligeneer.github.io/internal_use/ruijie/</link>
-      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/internal_use/ruijie/</guid>
-      <description>Ruijie 安装 先插上电源， Ruijie 上的黄色网口 (WAN口/小地球图标) 连接在客人的路由器上LAN口上 (一般是蓝色) Ruijie 剩下的蓝色口(LAN口上) 可以连接在我</description>
-    </item>
-    <item>
       <title>安装需要注意事项</title>
       <link>https://intelligeneer.github.io/internal_use/install/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://intelligeneer.github.io/internal_use/install/</guid>
       <description>首先连接好商家店内的WiFi (很重要，这一步是用来确定商家店内网段) 在 Windows 上，打开 &amp;ldquo;Commannd&amp;rdquo; (如下图) 在 Mac 上，打开 &amp;ldquo;Terminal&amp;rdquo; (如下图) 输入 ipconfig，即</description>
+    </item>
+    <item>
+      <title>ArmPOS 打印机IP修改</title>
+      <link>https://intelligeneer.github.io/internal_use/armpos_ip/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/internal_use/armpos_ip/</guid>
+      <description>请注意：此打印机只能在带有网线口的Windows上设置 自检打印机，查看打印机的IP地址 (如 192.168.123.200) 现在去到 Windows 电脑的控制面板 (Control Panel) 点开 查看网络状态和任</description>
+    </item>
+    <item>
+      <title>Ruijie安装</title>
+      <link>https://intelligeneer.github.io/internal_use/ruijie/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/internal_use/ruijie/</guid>
+      <description>Ruijie 安装 先插上电源， Ruijie 上的黄色网口 (WAN口/小地球图标) 连接在客人的路由器上LAN口上 (一般是蓝色) Ruijie 剩下的蓝色口(LAN口上) 可以连接在我</description>
     </item>
     <item>
       <title>葵花宝典</title>
