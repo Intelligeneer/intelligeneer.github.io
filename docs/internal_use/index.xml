@@ -13,7 +13,7 @@
       <link>https://intelligeneer.github.io/internal_use/install/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://intelligeneer.github.io/internal_use/install/</guid>
-      <description>首先连接好商家店内的WiFi (很重要，这一步是用来确定商家店内网段) 在 Windows 上，打开 &amp;ldquo;Commannd&amp;rdquo; (如下图) 在 Mac 上，打开 &amp;ldquo;Terminal&amp;rdquo; (如下图) 输入 ipconfig 即可查看到当前 Wi</description>
+      <description>首先连接好商家店内的WiFi (很重要，这一步是用来确定商家店内网段) 在 Windows 上，打开 &amp;ldquo;Commannd&amp;rdquo; (如下图) &lt;!DOCTYPE html&gt; Title 在 Mac 上，打开 &amp;ldquo;Terminal&amp;rdquo; (如下图) &lt;!DOCTYPE html&gt; Title 输入 ipconfig 即可查</description>
     </item>
     <item>
       <title>Advanced IP Scanner 使用</title>
