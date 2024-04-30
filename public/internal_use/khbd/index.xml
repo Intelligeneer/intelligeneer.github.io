@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>葵花宝典,秘籍指南 on Intelligeneer BUG BS 🤐</title>
+    <link>http://localhost:1313/internal_use/khbd/</link>
+    <description>Recent content in 葵花宝典,秘籍指南 on Intelligeneer BUG BS 🤐</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/internal_use/khbd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>葵花宝典</title>
+      <link>http://localhost:1313/internal_use/khbd/khbd/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/internal_use/khbd/khbd/</guid>
+      <description>小葵花妈妈课堂开课辣 1. 网店分类隐藏，只对先支付二维码有效，后支付二维码无法隐藏分类 2. 确认商家不在售卖此商品时可使用 &amp;ldquo;启用或禁用&amp;</description>
+    </item>
+  </channel>
+</rss>

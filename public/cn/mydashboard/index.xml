@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>我的店铺 on Intelligeneer BUG BS 🤐</title>
-    <link>https://intelligeneer.github.io/cn/mydashboard/</link>
+    <link>http://localhost:1313/cn/mydashboard/</link>
     <description>Recent content in 我的店铺 on Intelligeneer BUG BS 🤐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://intelligeneer.github.io/cn/mydashboard/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cn/mydashboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的店铺 - Adapay 查询</title>
-      <link>https://intelligeneer.github.io/cn/mydashboard/mydashboard/</link>
+      <link>http://localhost:1313/cn/mydashboard/mydashboard/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/cn/mydashboard/mydashboard/</guid>
+      <guid>http://localhost:1313/cn/mydashboard/mydashboard/</guid>
       <description>苹果手机下载链接: https://apps.apple.com/au/app/pospal-dashboard/id1600254383 安卓手机下载链接: https://www.pospal.cn/dcv2.html?i=landing/download/imgs/%E6%88%91%E7%9A%84%E5%BA%97%E9%93%BAV3.png&amp;amp;n=%E6%88%91%E7%9A%84%E5%BA%97%E9%93%BAV3&amp;amp;r=https://file.pospal.cn/myshop/myshop_android_v3_2.0.20.apk&amp;amp;c=downloadpage2.0.20 1 登入银豹账号 2 确定 Policy 3 我的店铺首页 4 往下滑到 Adyen 支付 5 点开后，右上角选择日期 (只能看前一天的记录。 交</description>
     </item>
   </channel>
