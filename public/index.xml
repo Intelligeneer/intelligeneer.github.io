@@ -44,6 +44,13 @@
       <description>Ruijie 安装 先插上电源， Ruijie 上的黄色网口 (WAN口/小地球图标) 连接在客人的路由器上LAN口上 (一般是蓝色) Ruijie 剩下的蓝色口(LAN口上) 可以连接在我</description>
     </item>
     <item>
+      <title>Sunmi Cloud Printer IP修改</title>
+      <link>https://intelligeneer.github.io/internal_use/sunmi_printer/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/internal_use/sunmi_printer/</guid>
+      <description>请注意：此打印机只能在Windows上设置 打开 Sunmi-cloud-printer-setup 出现提示 点击 More Info 点击 Run Anyway 将打印机连接到电脑主机，并点击软件上的连接 需要同意 Allow 看到打印机的信息</description>
+    </item>
+    <item>
       <title>葵花宝典</title>
       <link>https://intelligeneer.github.io/internal_use/khbd/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
