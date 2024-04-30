@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internal_Use on Intelligeneer BUG BS 🤐</title>
-    <link>http://localhost:1313/tags/internal_use/</link>
+    <link>https://intelligeneer.github.io/tags/internal_use/</link>
     <description>Recent content in Internal_Use on Intelligeneer BUG BS 🤐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/internal_use/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://intelligeneer.github.io/tags/internal_use/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>安装需要注意事项</title>
-      <link>http://localhost:1313/internal_use/install/</link>
+      <link>https://intelligeneer.github.io/internal_use/install/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/internal_use/install/</guid>
+      <guid>https://intelligeneer.github.io/internal_use/install/</guid>
       <description>首先连接好商家店内的WiFi (很重要，这一步是用来确定商家店内网段) 在 Windows 上，打开 &amp;ldquo;Commannd&amp;rdquo; (如下图) 在 Mac 上，打开 &amp;ldquo;Terminal&amp;rdquo; (如下图) 输入 ipconfig 即可查看到当前 Wi</description>
     </item>
     <item>
       <title>Advanced IP Scanner 使用</title>
-      <link>http://localhost:1313/internal_use/advanced_ip_scanner/</link>
+      <link>https://intelligeneer.github.io/internal_use/advanced_ip_scanner/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/internal_use/advanced_ip_scanner/</guid>
+      <guid>https://intelligeneer.github.io/internal_use/advanced_ip_scanner/</guid>
       <description>请注意：此软件只能在Windows上使用 下载链接：https://onedrive.live.com/?cid=8119C2A597679E</description>
     </item>
     <item>
       <title>ArmPOS 打印机IP修改</title>
-      <link>http://localhost:1313/internal_use/printer_setup/armpos_ip/</link>
+      <link>https://intelligeneer.github.io/internal_use/printer_setup/armpos_ip/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/internal_use/printer_setup/armpos_ip/</guid>
+      <guid>https://intelligeneer.github.io/internal_use/printer_setup/armpos_ip/</guid>
       <description>请注意：此打印机只能在带有网线口的Windows上设置 下载链接：https://onedrive.live.com/?cid=8119C2A</description>
     </item>
     <item>
       <title>Ruijie安装</title>
-      <link>http://localhost:1313/internal_use/ruijie/</link>
+      <link>https://intelligeneer.github.io/internal_use/ruijie/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/internal_use/ruijie/</guid>
+      <guid>https://intelligeneer.github.io/internal_use/ruijie/</guid>
       <description>Ruijie 安装 先插上电源， Ruijie 上的黄色网口 (WAN口/小地球图标) 连接在客人的路由器上LAN口上 (一般是蓝色) Ruijie 剩下的蓝色口(LAN口上) 可以连接在我</description>
     </item>
     <item>
       <title>Sunmi Cloud Printer IP修改</title>
-      <link>http://localhost:1313/internal_use/printer_setup/sunmi_printer/</link>
+      <link>https://intelligeneer.github.io/internal_use/printer_setup/sunmi_printer/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/internal_use/printer_setup/sunmi_printer/</guid>
+      <guid>https://intelligeneer.github.io/internal_use/printer_setup/sunmi_printer/</guid>
       <description>请注意：此打印机只能在Windows上设置 下载链接：https://onedrive.live.com/?cid=8119C2A597679</description>
     </item>
     <item>
       <title>葵花宝典</title>
-      <link>http://localhost:1313/internal_use/khbd/khbd/</link>
+      <link>https://intelligeneer.github.io/internal_use/khbd/khbd/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/internal_use/khbd/khbd/</guid>
+      <guid>https://intelligeneer.github.io/internal_use/khbd/khbd/</guid>
       <description>小葵花妈妈课堂开课辣 1. 网店分类隐藏，只对先支付二维码有效，后支付二维码无法隐藏分类 2. 确认商家不在售卖此商品时可使用 &amp;ldquo;启用或禁用&amp;</description>
     </item>
   </channel>

@@ -18,3 +18,7 @@ author = 'Chris'
 **3. 商家想要在后支付二维码隐藏商品，但同时又要在前台看见，可使用 "商品显隐"**
 ![hideqrorpos.png](/img/hideqrorpos.png)
 
+**4. 当客人有主副收银，前台主机想要将相同拆品拆分做 Split Bill，但是后厨又不想将相同商品拆成两个显示在KDS/厨打上怎么办？ 在前台*主机上把这个设置关掉***
+![offcombine.png](/img/offcombine.png)
+
+
