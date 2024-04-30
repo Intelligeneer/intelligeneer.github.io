@@ -5,7 +5,7 @@ tags = ["Internal_Use"]
 date = 2024-04-26
 draft = false
 author = 'Chris'
-weight = 0 # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
+weight = 2 # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
 +++
 
 ***请注意：此软件只能在Windows上使用***

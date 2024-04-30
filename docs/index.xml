@@ -37,18 +37,18 @@
       <description>请注意：此软件只能在Windows上使用 下载链接：https://onedrive.live.com/?cid=8119C2A597679E</description>
     </item>
     <item>
-      <title>ArmPOS 打印机IP修改</title>
-      <link>https://intelligeneer.github.io/internal_use/printer_setup/armpos_ip/</link>
-      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://intelligeneer.github.io/internal_use/printer_setup/armpos_ip/</guid>
-      <description>请注意：此打印机只能在带有网线口的Windows上设置 下载链接：https://onedrive.live.com/?cid=8119C2A</description>
-    </item>
-    <item>
       <title>Ruijie安装</title>
       <link>https://intelligeneer.github.io/internal_use/ruijie/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://intelligeneer.github.io/internal_use/ruijie/</guid>
       <description>Ruijie 安装 先插上电源， Ruijie 上的黄色网口 (WAN口/小地球图标) 连接在客人的路由器上LAN口上 (一般是蓝色) Ruijie 剩下的蓝色口(LAN口上) 可以连接在我</description>
+    </item>
+    <item>
+      <title>ArmPOS 打印机IP修改</title>
+      <link>https://intelligeneer.github.io/internal_use/printer_setup/armpos_ip/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/internal_use/printer_setup/armpos_ip/</guid>
+      <description>请注意：此打印机只能在带有网线口的Windows上设置 下载链接：https://onedrive.live.com/?cid=8119C2A</description>
     </item>
     <item>
       <title>Sunmi Cloud Printer IP修改</title>
