@@ -10,6 +10,9 @@ weight = 0 # 输入1可以顶置文章，用来给文章展示排序，不填就
 
 ***请注意：此打印机只能在Windows上设置***
 
+下载链接：https://onedrive.live.com/?cid=8119C2A597679EB1&mid=A0722E84162626D8%21108&mcid=A0722E84162626D8&sd=1&id=8119C2A597679EB1%21130346&parId=8119C2A597679EB1%21130342&o=OneUp
+
+
 **打开 Sunmi-cloud-printer-setup**
 ![sunmicloudprinter.png](/img/sunmicloudprinter.png)
 
@@ -19,7 +22,7 @@ weight = 0 # 输入1可以顶置文章，用来给文章展示排序，不填就
 **点击 Run Anyway**
 ![runanyway.png](/img/runanyway.png)
 
-**将打印机连接到电脑主机，并点击软件上的连接**
+**将打印机通过自带的USB Type C的线连接到电脑主机，并点击软件上的连接**
 ![connect.png](/img/connect.png)
 
 **需要同意 Allow**

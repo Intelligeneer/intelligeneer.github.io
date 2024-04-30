@@ -30,11 +30,18 @@
       <description>登入到银豹后台 银豹登入链接: https://anz.pospal.cn/ 在左手边找到 设置 &amp;mdash;&amp;gt; 系统设置 在右手边找到 消费税服务费设置 点击 编辑 这样在 服务费 中修改任何你想加收的服务费并点击 保存</description>
     </item>
     <item>
+      <title>Advanced IP Scanner 使用</title>
+      <link>https://intelligeneer.github.io/internal_use/advanced_ip_scanner/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/internal_use/advanced_ip_scanner/</guid>
+      <description>请注意：此软件只能在Windows上使用 下载链接：https://onedrive.live.com/?cid=8119C2A597679E</description>
+    </item>
+    <item>
       <title>ArmPOS 打印机IP修改</title>
       <link>https://intelligeneer.github.io/internal_use/armpos_ip/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://intelligeneer.github.io/internal_use/armpos_ip/</guid>
-      <description>请注意：此打印机只能在带有网线口的Windows上设置 自检打印机，查看打印机的IP地址 (如 192.168.123.200) 现在去到 Windows 电脑的控制面板 (Control Panel) 点开 查看网络状态和任</description>
+      <description>请注意：此打印机只能在带有网线口的Windows上设置 下载链接：https://onedrive.live.com/?cid=8119C2A</description>
     </item>
     <item>
       <title>Ruijie安装</title>
@@ -48,7 +55,7 @@
       <link>https://intelligeneer.github.io/internal_use/sunmi_printer/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://intelligeneer.github.io/internal_use/sunmi_printer/</guid>
-      <description>请注意：此打印机只能在Windows上设置 打开 Sunmi-cloud-printer-setup 出现提示 点击 More Info 点击 Run Anyway 将打印机连接到电脑主机，并点击软件上的连接 需要同意 Allow 看到打印机的信息</description>
+      <description>请注意：此打印机只能在Windows上设置 下载链接：https://onedrive.live.com/?cid=8119C2A597679</description>
     </item>
     <item>
       <title>葵花宝典</title>
