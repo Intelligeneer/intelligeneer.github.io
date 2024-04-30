@@ -6,9 +6,9 @@ date = 2024-03-13
 draft = false
 +++
 
-**苹果手机下载链接:** https://apps.apple.com/au/app/pospal-dashboard/id1600254383
+[苹果手机下载链接](https://apps.apple.com/au/app/pospal-dashboard/id1600254383 "苹果手机下载")
 
-**安卓手机下载链接:** https://www.pospal.cn/dcv2.html?i=landing/download/imgs/%E6%88%91%E7%9A%84%E5%BA%97%E9%93%BAV3.png&n=%E6%88%91%E7%9A%84%E5%BA%97%E9%93%BAV3&r=https://file.pospal.cn/myshop/myshop_android_v3_2.0.20.apk&c=downloadpage2.0.20
+[安卓手机下载链接](https://www.pospal.cn/dcv2.html?i=landing/download/imgs/%E6%88%91%E7%9A%84%E5%BA%97%E9%93%BAV3.png&n=%E6%88%91%E7%9A%84%E5%BA%97%E9%93%BAV3&r=https://file.pospal.cn/myshop/myshop_android_v3_2.0.20.apk&c=downloadpage2.0.20 "安卓手机下载")
 
 **1 登入银豹账号**
 ![Pospal_login.png](/img/Pospal_login.png)

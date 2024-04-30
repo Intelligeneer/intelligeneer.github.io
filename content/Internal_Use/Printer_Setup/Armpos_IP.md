@@ -10,8 +10,7 @@ weight = 0 # 输入1可以顶置文章，用来给文章展示排序，不填就
 
 ***请注意：此打印机只能在带有网线口的Windows上设置***
 
-下载链接：https://onedrive.live.com/?cid=8119C2A597679EB1&mid=A0722E84162626D8%21108&mcid=A0722E84162626D8&sd=1&id=8119C2A597679EB1%21158912&parId=8119C2A597679EB1%21130342&o=OneUp
-
+[ArmPos打印机驱动下载链接](https://onedrive.live.com/?cid=8119C2A597679EB1&mid=A0722E84162626D8%21108&mcid=A0722E84162626D8&sd=1&id=8119C2A597679EB1%21158912&parId=8119C2A597679EB1%21130342&o=OneUp "ArmPos打印机驱动下载")
 
 **自检打印机，查看打印机的IP地址 (如 192.168.123.200)**
 

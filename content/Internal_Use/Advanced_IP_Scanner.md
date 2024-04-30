@@ -10,8 +10,7 @@ weight = 2 # 输入1可以顶置文章，用来给文章展示排序，不填就
 
 ***请注意：此软件只能在Windows上使用***
 
-下载链接：https://onedrive.live.com/?cid=8119C2A597679EB1&mid=A0722E84162626D8%21108&mcid=A0722E84162626D8&sd=1&id=8119C2A597679EB1%21158914&parId=8119C2A597679EB1%21130342&o=OneUp
-
+[Advanced IP Scanner下载链接](https://onedrive.live.com/?cid=8119C2A597679EB1&mid=A0722E84162626D8%21108&mcid=A0722E84162626D8&sd=1&id=8119C2A597679EB1%21158914&parId=8119C2A597679EB1%21130342&o=OneUp "Advanced IP Scanner下载")
 
 **如果觉得使用 CMD/Terminal 检查 IP方式太麻烦的话，使用 Advanced IP Scanner会更方便**
 ![advancedipscanner.png](/img/advancedipscanner.png)
