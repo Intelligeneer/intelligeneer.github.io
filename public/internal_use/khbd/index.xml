@@ -15,5 +15,19 @@
       <guid>https://intelligeneer.github.io/internal_use/khbd/khbd/</guid>
       <description>小葵花妈妈课堂开课辣 1. 网店分类隐藏，只对先支付二维码有效，后支付二维码无法隐藏分类 &lt;!DOCTYPE html&gt; Title 2. 确认商家不在售卖此商品时可使用 &amp;ldquo;启用或</description>
     </item>
+    <item>
+      <title>旧版网店修改</title>
+      <link>https://intelligeneer.github.io/internal_use/khbd/old_ver_website/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/internal_use/khbd/old_ver_website/</guid>
+      <description>新版网店修改跳转链接 以下我们拿测试账号测试 首先需要在后台 ---&amp;gt; 设置 ---&amp;gt; 基础设置 ---&amp;gt; 访问地址：https://bzmw9-28.pospal.cn &lt;!DOCTYPE html&gt;</description>
+    </item>
+    <item>
+      <title>新版网店修改</title>
+      <link>https://intelligeneer.github.io/internal_use/khbd/new_ver_website/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/internal_use/khbd/new_ver_website/</guid>
+      <description>旧版网店修改跳转链接</description>
+    </item>
   </channel>
 </rss>
