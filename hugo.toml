@@ -17,25 +17,25 @@ buildExpired = 'false'
 identifier = "中文"
 name = "中文/🇨🇳"
 url = "/cn"
-weight = 1
+weight = 10
 
 [[menu.main]]
 identifier = "English"
 name = "English/🇦🇺"
 url = "/en"
-weight = 2
+weight = 20
 
 [[menu.main]]
 identifier = "Internal Use"
 name = "🗃️Internal Use"
 url = "/Internal_Use/"
-weight = 3
+weight = 30
 
 [[menu.main]]
 identifier = "About"
 name = "😘About Us"
 url = "/about/"
-weight = 4
+weight = 40
 
 
 [params]
