@@ -9,6 +9,13 @@
     <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://intelligeneer.github.io/internal_use/printer_setup/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>使用USB连接打印机会遇到的问题</title>
+      <link>https://intelligeneer.github.io/internal_use/printer_setup/printer_usb/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/internal_use/printer_setup/printer_usb/</guid>
+      <description>使用USB连接打印机会遇到的问题 比如说客人前台收银小票机使用的是USB连接，但是重启还不行的话如下步骤 当客人那边使用USB线连接到POS系统</description>
+    </item>
+    <item>
       <title>ArmPOS 打印机IP修改</title>
       <link>https://intelligeneer.github.io/internal_use/printer_setup/armpos_ip/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
