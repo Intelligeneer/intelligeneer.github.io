@@ -1,5 +1,5 @@
 +++
-title = '在收银端修改商品价格 (文字版)'
+title = 'Change Price on POS (Text Version)'
 categories = ["POSPAL", "Training"]
 tags = ["Internal_Use"]
 date = 2024-04-26
