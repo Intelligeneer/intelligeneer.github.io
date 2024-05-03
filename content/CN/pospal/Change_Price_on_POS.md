@@ -12,6 +12,8 @@ comment = true
 ```dos
 左上角 ---> Adjust Product price
 ```
+![adjustproductprice.png](/img/adjustproductprice.png)
+
 ```
 找到商品的分类 ---> 找到商品 ---> 点击商品 ---> 修改价格
 ```
