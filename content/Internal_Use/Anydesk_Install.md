@@ -7,7 +7,7 @@ draft = false
 author = 'Chris'
 weight = 4 # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
 comment = true
-password = "Intelligeneer"
+password = "lovedaisy"
 +++
 
 **通过浏览器下载Landrop**

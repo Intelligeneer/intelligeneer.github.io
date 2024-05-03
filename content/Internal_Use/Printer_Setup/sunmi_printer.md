@@ -6,7 +6,7 @@ date = 2024-04-26
 draft = false
 author = 'Chris'
 weight = 0 # 输入1可以顶置文章，用来给文章展示排序，不填就默认按时间排序
-password = "Intelligeneer"
+password = "lovedaisy"
 +++
 
 ***请注意：此打印机只能在Windows上设置***
