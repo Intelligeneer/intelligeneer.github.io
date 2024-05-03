@@ -271,9 +271,51 @@
     >
       
 
+
+<script>
+  (function(){
+    var password = 'Intelligeneer';
+    var enteredPassword = prompt('请输入密码');
+    if (enteredPassword !== password){
+      alert('密码错误！');
+      window.location.href = '/'; 
+    }
+  })();
+</script>
+
+<p><strong>使用USB连接打印机会遇到的问题</strong></p>
+<p><em><strong>比如说客人前台收银小票机使用的是USB连接，但是重启还不行的话如下步骤</strong></em></p>
+<p><strong>当客人那边使用USB线连接到POS系统上，会弹出提示 (如下图)</strong>
+
+<div class="post-img-view">
+    <a data-fancybox="gallery" href="/img/posusbprinter.png">
+        <img src="/img/posusbprinter.png" alt="posusbprinter.png"  />
+    </a>
+</div>
+</p>
+<p><strong>然后按照如下步骤设置</strong></p>
+<pre tabindex="0"><code class="language-dos" data-lang="dos">左上角 ---&gt; Settings ---&gt; External Devices ---&gt; USB Printer
+</code></pre><p>
+<div class="post-img-view">
+    <a data-fancybox="gallery" href="/img/usbprinter.png">
+        <img src="/img/usbprinter.png" alt="usbprinter.png"  />
+    </a>
+</div>
+</p>
+<p>
+<div class="post-img-view">
+    <a data-fancybox="gallery" href="/img/usbprinterconnected.png">
+        <img src="/img/usbprinterconnected.png" alt="usbprinterconnected.png"  />
+    </a>
+</div>
+</p>
+<p><strong>然后可以让客人下单测试</strong></p>
+
+
 <article>
   <header class="mb-16">
     <h1 class="!my-0 pb-2.5">使用USB连接打印机会遇到的问题</h1>
+
 
     
     <div class="text-sm antialiased opacity-60">

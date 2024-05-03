@@ -271,9 +271,78 @@
     >
       
 
+
+<script>
+  (function(){
+    var password = 'Intelligeneer';
+    var enteredPassword = prompt('请输入密码');
+    if (enteredPassword !== password){
+      alert('密码错误！');
+      window.location.href = '/'; 
+    }
+  })();
+</script>
+
+<p><strong>首先连接好商家店内的WiFi (很重要，这一步是用来确定商家店内网段)</strong></p>
+<p><strong>在 Windows 上，打开 &ldquo;Commannd&rdquo; (如下图)</strong>
+
+<div class="post-img-view">
+    <a data-fancybox="gallery" href="/img/command.png">
+        <img src="/img/command.png" alt="command.png"  />
+    </a>
+</div>
+</p>
+<p><strong>在 Mac 上，打开 &ldquo;Terminal&rdquo; (如下图)</strong>
+
+<div class="post-img-view">
+    <a data-fancybox="gallery" href="/img/terminal.png">
+        <img src="/img/terminal.png" alt="terminal.png"  />
+    </a>
+</div>
+</p>
+<pre tabindex="0"><code>输入 ipconfig
+</code></pre><p>即可查看到当前 Windows电脑的IP地址。 也能确定商家店内网络的网段
+
+<div class="post-img-view">
+    <a data-fancybox="gallery" href="/img/ipconfig.png">
+        <img src="/img/ipconfig.png" alt="ipconfig.png"  />
+    </a>
+</div>
+</p>
+<p><strong>在 Mac 上，按住 &ldquo;Option&rdquo; + 点击WiFi 图标即可查看到当前 Mac电脑的IP地址。</strong>
+
+<div class="post-img-view">
+    <a data-fancybox="gallery" href="/img/macip.png">
+        <img src="/img/macip.png" alt="macip.png"  />
+    </a>
+</div>
+</p>
+<p><strong>POS设备，我们尽可能把网段设置在 200 以后 (如：192.168.1.200)。并且我们要确定此网段是否被使用</strong></p>
+<p><strong>如何检查此网段是否被使用 &mdash;&gt; 在 Command 或者 Terminal 中输入</strong></p>
+<pre tabindex="0"><code>ping 192.168.1.200
+</code></pre><p><strong>如果看到有毫秒的显示，就说明此网段被使用了</strong>
+
+<div class="post-img-view">
+    <a data-fancybox="gallery" href="/img/ping.png">
+        <img src="/img/ping.png" alt="ping.png"  />
+    </a>
+</div>
+</p>
+<p><strong>如果看到 &ldquo;Destination host unreachable&rdquo;，就说明 这个IP 地址并未使用。 也就是可以使用</strong>
+
+<div class="post-img-view">
+    <a data-fancybox="gallery" href="/img/pingnot.png">
+        <img src="/img/pingnot.png" alt="pingnot.png"  />
+    </a>
+</div>
+</p>
+<p><strong>Command 和 Terminal 会持续访问网段，如需暂停 Windows 上 按住 &ldquo;CTRL + C&rdquo; ， Mac 上 按住 &ldquo;control + C&rdquo;</strong></p>
+
+
 <article>
   <header class="mb-16">
     <h1 class="!my-0 pb-2.5">安装需要注意事项</h1>
+
 
     
     <div class="text-sm antialiased opacity-60">

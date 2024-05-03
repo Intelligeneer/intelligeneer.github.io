@@ -271,9 +271,78 @@
     >
       
 
+
+<script>
+  (function(){
+    var password = 'Intelligeneer';
+    var enteredPassword = prompt('请输入密码');
+    if (enteredPassword !== password){
+      alert('密码错误！');
+      window.location.href = '/'; 
+    }
+  })();
+</script>
+
+<p><a href="../new_ver_website/" target="_blank" rel="noopener">新版网店修改跳转链接</a></p>
+<p><strong>以下我们拿测试账号测试</strong></p>
+<pre tabindex="0"><code class="language-url" data-lang="url">首先需要在后台 ---&gt; 设置 ---&gt; 基础设置 ---&gt; 访问地址：https://bzmw9-28.pospal.cn
+</code></pre><p>
+<div class="post-img-view">
+    <a data-fancybox="gallery" href="/img/storewebsite.png">
+        <img src="/img/storewebsite.png" alt="storewebsite.png"  />
+    </a>
+</div>
+</p>
+<p><strong>下一步，将访问地址复制到浏览器里面，并添加后缀 wkb/customize/editcss</strong></p>
+<pre tabindex="0"><code class="language-url" data-lang="url">https://bzmw9-28.pospal.cn/wkb/customize/editcss
+</code></pre><p><strong>然后登入银豹的账号和密码，登入完成后再将上面的网站放入浏览器中</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span><span style="color:#75715e">/* 头部颜色 */</span>
+</span></span><span style="display:flex;"><span>#categoriesView .<span style="color:#a6e22e">yb-header-home</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">background</span>: <span style="color:#ae81ff">#cb3038</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">color</span>: <span style="color:#ae81ff">#fff</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#75715e">/* 左侧边栏项目 (自助模式二维码)*/</span>
+</span></span><span style="display:flex;"><span>.<span style="color:#a6e22e">yb-deals_tpl_4</span> .<span style="color:#a6e22e">yb-deals_left</span> .<span style="color:#a6e22e">yb-item</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">color</span>: <span style="color:#ae81ff">#fff</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">background</span>: <span style="color:#ae81ff">#004b9e</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#75715e">/* 登陆按钮 */</span>
+</span></span><span style="display:flex;"><span>.<span style="color:#a6e22e">yb-header-home</span> .<span style="color:#a6e22e">yb-person-lnk</span>{
+</span></span><span style="display:flex;"><span> <span style="color:#66d9ef">display</span>: <span style="color:#66d9ef">none</span>
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span><span style="color:#75715e">/* 搜索按钮图片 */</span>
+</span></span><span style="display:flex;"><span>.<span style="color:#a6e22e">yb-header-home</span> .<span style="color:#a6e22e">yb-search-lnk</span> <span style="color:#f92672">img</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">content</span>: url(<span style="color:#e6db74">//imgw.pospal.cn/we/weidian/img/iconsV2/searchWhite.png</span>);
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">/* 套餐商品名 */</span>
+</span></span><span style="display:flex;"><span>.<span style="color:#a6e22e">yb-package-wrapper</span> .<span style="color:#a6e22e">yb-package-product_name</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">white-space</span>: <span style="color:#66d9ef">pre-wrap</span>; 
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">height</span>: <span style="color:#ae81ff">4</span><span style="color:#66d9ef">rem</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">/* 隐藏优惠卷 */</span>	
+</span></span><span style="display:flex;"><span>#showCouponSelects {
+</span></span><span style="display:flex;"><span>    Display:<span style="color:#66d9ef">none</span>
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">/* 左侧边栏项目 (桌码模式) */</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>.<span style="color:#a6e22e">yb-deals_tpl_4</span> .<span style="color:#a6e22e">yb-deals_left</span> .<span style="color:#a6e22e">yb-item</span><span style="color:#f92672">,</span>
+</span></span><span style="display:flex;"><span>.<span style="color:#a6e22e">yb-deals_tpl_1</span> .<span style="color:#a6e22e">yb-deals_left</span> .<span style="color:#a6e22e">yb-item</span> {
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">color</span>: <span style="color:#ae81ff">#ffffff</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">background</span>: <span style="color:#ae81ff">#8B0000</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p><em><strong>这是一些比较基础的修改方式，如果需要更高阶的，请联系李辉</strong></em></p>
+
+
 <article>
   <header class="mb-16">
     <h1 class="!my-0 pb-2.5">旧版网店修改</h1>
+
 
     
     <div class="text-sm antialiased opacity-60">

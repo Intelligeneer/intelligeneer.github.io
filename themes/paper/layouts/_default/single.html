@@ -1,8 +1,23 @@
 {{ define "main" }}
 
+{{ with .Params.password }}
+<script>
+  (function(){
+    var password = '{{ . }}';
+    var enteredPassword = prompt('请输入密码');
+    if (enteredPassword !== password){
+      alert('密码错误！');
+      window.location.href = '/'; // 密码错误时跳转到首页
+    }
+  })();
+</script>
+{{ end }}
+{{ .Content }}
+
 <article>
   <header class="mb-16">
     <h1 class="!my-0 pb-2.5">{{ .Title }}</h1>
+
 
     {{ if ne .Type "page" }}
     <div class="text-sm antialiased opacity-60">
