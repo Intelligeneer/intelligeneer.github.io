@@ -6,7 +6,7 @@
     <description>Recent content in 银豹 on Intelligeneer BUG BS 🤐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Mar 2024 10:34:13 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://intelligeneer.github.io/cn/pospal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>公共假期手续费设置</title>
@@ -14,6 +14,13 @@
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://intelligeneer.github.io/cn/pospal/public_surcharge/</guid>
       <description>登入到银豹后台 银豹登入链接: https://anz.pospal.cn/ &lt;!DOCTYPE html&gt; Title 在左手边找到 设置 &amp;mdash;&amp;gt; 系统设置 &lt;!DOCTYPE html&gt; Title 在右手边找到 消费税服务费设置 点击 编辑 &lt;!DOCTYPE html&gt; Title 这样在 服务费 中修改任何你想加收</description>
+    </item>
+    <item>
+      <title>在收银端修改商品价格 (文字版)</title>
+      <link>https://intelligeneer.github.io/cn/pospal/change_price_on_pos/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://intelligeneer.github.io/cn/pospal/change_price_on_pos/</guid>
+      <description>左上角 ---&amp;gt; Adjust Product price 找到商品的分类 ---&amp;gt; 找到商品 ---&amp;gt; 点击商品 ---&amp;gt; 修改价格 &lt;!DOCTYPE html&gt; Title 确认修改后点击 create price adjustment list &lt;!DOCTYPE html&gt; Title 完成 &lt;!DOCTYPE html&gt; Title 视频如下</description>
     </item>
     <item>
       <title>在没有网络的情况下，使用手机热点登入点单系统</title>
