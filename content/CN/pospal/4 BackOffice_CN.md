@@ -60,5 +60,9 @@ draft = false
 **18 后台隐藏菜品，只给收银端看，不给QR下单看**
 {{< youtube id="playlist?list=PLARAy0Gh8lsYMvk_qe13XEUjOuryeaorE&si=vXlnb69e2B0cn0RB&index=18" >}}
 
+**19 设置商品不参与打折（设置固价）**
+{{< youtube id="playlist?list=PLARAy0Gh8lsYMvk_qe13XEUjOuryeaorE&si=vXlnb69e2B0cn0RB&index=19" >}}
+
+
 右上角可以选择播放列表
 {{< youtube id="videoseries?list=PLARAy0Gh8lsYMvk_qe13XEUjOuryeaorE"  start="0" >}}
