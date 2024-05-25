@@ -6,28 +6,33 @@
     <description>Recent content in 打印机设置 on Intelligeneer BUG BS 🤐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://intelligeneer.github.io/internal_use/printer_setup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://intelligeneer.github.io/internal_use/printer_setup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用USB连接打印机会遇到的问题</title>
       <link>https://intelligeneer.github.io/internal_use/printer_setup/printer_usb/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/internal_use/printer_setup/printer_usb/</guid>
       <description>使用USB连接打印机会遇到的问题 比如说客人前台收银小票机使用的是USB连接，但是重启还不行的话如下步骤 当客人那边使用USB线连接到POS系统</description>
     </item>
+    
     <item>
       <title>ArmPOS 打印机IP修改</title>
       <link>https://intelligeneer.github.io/internal_use/printer_setup/armpos_ip/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/internal_use/printer_setup/armpos_ip/</guid>
       <description>请注意：此打印机只能在带有网线口的Windows上设置 ArmPos打印机驱动下载链接 自检打印机，查看打印机的IP地址 (如 192.168.123.200) 现在去到 Windows 电脑的控</description>
     </item>
+    
     <item>
       <title>Sunmi Cloud Printer IP修改</title>
       <link>https://intelligeneer.github.io/internal_use/printer_setup/sunmi_printer/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/internal_use/printer_setup/sunmi_printer/</guid>
       <description>请注意：此打印机只能在Windows上设置 Sunmi 驱动下载链接 打开 Sunmi-cloud-printer-setup &lt;!DOCTYPE html&gt; Title 出现提示 点击 More Info &lt;!DOCTYPE html&gt; Title 点击 Run Anyway &lt;!DOCTYPE html&gt; Title 将打印机通过自带的USB Type C的线连接</description>
     </item>
+    
   </channel>
 </rss>

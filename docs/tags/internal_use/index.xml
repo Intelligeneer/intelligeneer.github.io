@@ -6,91 +6,114 @@
     <description>Recent content in Internal_Use on Intelligeneer BUG BS 🤐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://intelligeneer.github.io/tags/internal_use/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://intelligeneer.github.io/tags/internal_use/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用USB连接打印机会遇到的问题</title>
       <link>https://intelligeneer.github.io/internal_use/printer_setup/printer_usb/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/internal_use/printer_setup/printer_usb/</guid>
       <description>使用USB连接打印机会遇到的问题 比如说客人前台收银小票机使用的是USB连接，但是重启还不行的话如下步骤 当客人那边使用USB线连接到POS系统</description>
     </item>
+    
     <item>
       <title>安装需要注意事项</title>
       <link>https://intelligeneer.github.io/internal_use/install/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/internal_use/install/</guid>
       <description>首先连接好商家店内的WiFi (很重要，这一步是用来确定商家店内网段) 在 Windows 上，打开 &amp;ldquo;Commannd&amp;rdquo; (如下图) &lt;!DOCTYPE html&gt; Title 在 Mac 上，打开 &amp;ldquo;Terminal&amp;rdquo; (如下图) &lt;!DOCTYPE html&gt; Title 输入 ipconfig 即可查</description>
     </item>
+    
     <item>
       <title>葵花宝典</title>
       <link>https://intelligeneer.github.io/internal_use/khbd/khbd/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/internal_use/khbd/khbd/</guid>
       <description>小葵花妈妈课堂开课辣 1. 网店分类隐藏，只对先支付二维码有效，后支付二维码无法隐藏分类 &lt;!DOCTYPE html&gt; Title 2. 确认商家不在售卖此商品时可使用 &amp;ldquo;启用或</description>
     </item>
+    
     <item>
       <title>Advanced IP Scanner 使用</title>
       <link>https://intelligeneer.github.io/internal_use/advanced_ip_scanner/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/internal_use/advanced_ip_scanner/</guid>
       <description>请注意：此软件只能在Windows上使用 Advanced IP Scanner下载链接 如果觉得使用 CMD/Terminal 检查 IP方式太麻烦的话，使用 Advanced IP Scanner会更方便 &lt;!DOCTYPE html&gt; Title</description>
     </item>
+    
     <item>
       <title>Change Price on POS (Text Version)</title>
       <link>https://intelligeneer.github.io/en/pospal/change_price_on_pos/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/en/pospal/change_price_on_pos/</guid>
       <description>Top Left Corner ---&amp;gt; Adjust Product price &lt;!DOCTYPE html&gt; Title Find Item Under which Category ---&amp;gt; Find Item ---&amp;gt; Select Item ---&amp;gt; Change Price &lt;!DOCTYPE html&gt; Title Affter Complete Price Change ---&amp;gt; create price adjustment list &lt;!DOCTYPE html&gt; Title Complete &lt;!DOCTYPE html&gt; Title Video down below</description>
     </item>
+    
     <item>
       <title>在收银端修改商品价格 (文字版)</title>
       <link>https://intelligeneer.github.io/cn/pospal/change_price_on_pos/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/cn/pospal/change_price_on_pos/</guid>
       <description>左上角 ---&amp;gt; Adjust Product price &lt;!DOCTYPE html&gt; Title 找到商品的分类 ---&amp;gt; 找到商品 ---&amp;gt; 点击商品 ---&amp;gt; 修改价格 &lt;!DOCTYPE html&gt; Title 确认修改后点击 create price adjustment list &lt;!DOCTYPE html&gt; Title 完成 &lt;!DOCTYPE html&gt; Title 视频如下</description>
     </item>
+    
     <item>
       <title>旧版网店修改</title>
       <link>https://intelligeneer.github.io/internal_use/khbd/old_ver_website/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/internal_use/khbd/old_ver_website/</guid>
       <description>新版网店修改跳转链接 以下我们拿测试账号测试 首先需要在后台 ---&amp;gt; 设置 ---&amp;gt; 基础设置 ---&amp;gt; 访问地址：https://bzmw9-28.pospal.cn &lt;!DOCTYPE html&gt;</description>
     </item>
+    
     <item>
       <title>Ruijie安装</title>
       <link>https://intelligeneer.github.io/internal_use/ruijie/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/internal_use/ruijie/</guid>
       <description>Ruijie 安装 先插上电源， Ruijie 上的黄色网口 (WAN口/小地球图标) 连接在客人的路由器上LAN口上 (一般是蓝色) Ruijie 剩下的蓝色口(LAN口上) 可以连接在我</description>
     </item>
+    
     <item>
       <title>新版网店修改</title>
       <link>https://intelligeneer.github.io/internal_use/khbd/new_ver_website/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/internal_use/khbd/new_ver_website/</guid>
       <description>旧版网店修改跳转链接 以下我们拿测试账号测试 首先去到后台 设置 ---&amp;gt; 网店装修 ---&amp;gt; 点单界面模板的最后一个 &lt;!DOCTYPE html&gt; Title 下一步找到网店URL 首先需要在后台 ---&amp;gt; 设置 ---&amp;gt;</description>
     </item>
+    
     <item>
       <title>LANDrop 和 Anydesk 的安装</title>
       <link>https://intelligeneer.github.io/internal_use/anydesk_install/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/internal_use/anydesk_install/</guid>
       <description>通过浏览器下载Landrop LANDrop下载地址 下载安装并打开 &lt;!DOCTYPE html&gt; Title (P.S.同时也需要在电脑上下载好 LANDrop) 在POS机上打开软件 &lt;!DOCTYPE html&gt; Title 将 Anydesk 5.5.2 和</description>
     </item>
+    
     <item>
       <title>ArmPOS 打印机IP修改</title>
       <link>https://intelligeneer.github.io/internal_use/printer_setup/armpos_ip/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/internal_use/printer_setup/armpos_ip/</guid>
       <description>请注意：此打印机只能在带有网线口的Windows上设置 ArmPos打印机驱动下载链接 自检打印机，查看打印机的IP地址 (如 192.168.123.200) 现在去到 Windows 电脑的控</description>
     </item>
+    
     <item>
       <title>Sunmi Cloud Printer IP修改</title>
       <link>https://intelligeneer.github.io/internal_use/printer_setup/sunmi_printer/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/internal_use/printer_setup/sunmi_printer/</guid>
       <description>请注意：此打印机只能在Windows上设置 Sunmi 驱动下载链接 打开 Sunmi-cloud-printer-setup &lt;!DOCTYPE html&gt; Title 出现提示 点击 More Info &lt;!DOCTYPE html&gt; Title 点击 Run Anyway &lt;!DOCTYPE html&gt; Title 将打印机通过自带的USB Type C的线连接</description>
     </item>
+    
   </channel>
 </rss>

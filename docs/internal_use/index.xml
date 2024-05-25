@@ -6,35 +6,42 @@
     <description>Recent content in Internal_Use on Intelligeneer BUG BS 🤐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://intelligeneer.github.io/internal_use/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://intelligeneer.github.io/internal_use/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>安装需要注意事项</title>
       <link>https://intelligeneer.github.io/internal_use/install/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/internal_use/install/</guid>
       <description>首先连接好商家店内的WiFi (很重要，这一步是用来确定商家店内网段) 在 Windows 上，打开 &amp;ldquo;Commannd&amp;rdquo; (如下图) &lt;!DOCTYPE html&gt; Title 在 Mac 上，打开 &amp;ldquo;Terminal&amp;rdquo; (如下图) &lt;!DOCTYPE html&gt; Title 输入 ipconfig 即可查</description>
     </item>
+    
     <item>
       <title>Advanced IP Scanner 使用</title>
       <link>https://intelligeneer.github.io/internal_use/advanced_ip_scanner/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/internal_use/advanced_ip_scanner/</guid>
       <description>请注意：此软件只能在Windows上使用 Advanced IP Scanner下载链接 如果觉得使用 CMD/Terminal 检查 IP方式太麻烦的话，使用 Advanced IP Scanner会更方便 &lt;!DOCTYPE html&gt; Title</description>
     </item>
+    
     <item>
       <title>Ruijie安装</title>
       <link>https://intelligeneer.github.io/internal_use/ruijie/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/internal_use/ruijie/</guid>
       <description>Ruijie 安装 先插上电源， Ruijie 上的黄色网口 (WAN口/小地球图标) 连接在客人的路由器上LAN口上 (一般是蓝色) Ruijie 剩下的蓝色口(LAN口上) 可以连接在我</description>
     </item>
+    
     <item>
       <title>LANDrop 和 Anydesk 的安装</title>
       <link>https://intelligeneer.github.io/internal_use/anydesk_install/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/internal_use/anydesk_install/</guid>
       <description>通过浏览器下载Landrop LANDrop下载地址 下载安装并打开 &lt;!DOCTYPE html&gt; Title (P.S.同时也需要在电脑上下载好 LANDrop) 在POS机上打开软件 &lt;!DOCTYPE html&gt; Title 将 Anydesk 5.5.2 和</description>
     </item>
+    
   </channel>
 </rss>
