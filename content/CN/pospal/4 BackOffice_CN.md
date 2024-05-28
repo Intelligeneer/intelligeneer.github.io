@@ -63,6 +63,5 @@ draft = false
 **19 设置商品不参与打折（设置固价）**
 {{< youtube id="playlist?list=PLARAy0Gh8lsYMvk_qe13XEUjOuryeaorE&si=vXlnb69e2B0cn0RB&index=19" >}}
 
-
 右上角可以选择播放列表
 {{< youtube id="videoseries?list=PLARAy0Gh8lsYMvk_qe13XEUjOuryeaorE"  start="0" >}}

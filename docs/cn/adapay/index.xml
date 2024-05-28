@@ -6,14 +6,15 @@
     <description>Recent content in Adapay 支付方式 on Intelligeneer BUG BS 🤐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://intelligeneer.github.io/cn/adapay/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://intelligeneer.github.io/cn/adapay/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3 AdaPay EFTPOS</title>
       <link>https://intelligeneer.github.io/cn/adapay/adapay/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://intelligeneer.github.io/cn/adapay/adapay/</guid>
       <description>1 在Adapay刷卡机更新配置 2 在Adapay刷卡机上查看每日刷卡总额并充值 3 在Adapay刷卡机上切换 WiFi 或 4G backup 4 在Adapay刷卡机上查看</description>
     </item>
+    
   </channel>
 </rss>
