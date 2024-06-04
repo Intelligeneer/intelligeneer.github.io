@@ -72,6 +72,10 @@ draft = false
 **22 在收银端设置商品厨房打印机**
 {{< youtube id="playlist?list=PLARAy0Gh8lsbqO01WbNTGylCQd3oOJtoe&si=bRzfMbDVlUI7E4cr&index=22" >}}
 
+**23 在收银端拆单**
+{{< youtube id="playlist?list=PLARAy0Gh8lsbqO01WbNTGylCQd3oOJtoe&si=bRzfMbDVlUI7E4cr&index=23" >}}
+
+
 
 **合集**
 
