@@ -71,5 +71,8 @@ draft = false
 **22 Items connect to Kitchen Printer**
 {{< youtube id="playlist?list=PLARAy0Gh8lsbqO01WbNTGylCQd3oOJtoe&si=bRzfMbDVlUI7E4cr&index=22" >}}
 
+**23 Split Bill**
+{{< youtube id="playlist?list=PLARAy0Gh8lsbqO01WbNTGylCQd3oOJtoe&si=bRzfMbDVlUI7E4cr&index=23" >}}
+
 **Choose Episode on Top Right Corner**
 {{< youtube id="videoseries?list=PLARAy0Gh8lsbqO01WbNTGylCQd3oOJtoe"  start="0" >}}
