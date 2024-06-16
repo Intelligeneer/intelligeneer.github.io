@@ -49,4 +49,4 @@ AMS1-00015823400000
 **<span style="color: red"> (_Test after connected_)</span>**
 
 **Video Downbelow👇**
-{{< youtube id="yfx7rZ_PKgs?si=pw9q2pelpkxLXXyw" >}}
+{{< youtube id="playlist?list=PLARAy0Gh8lsaSwmNpKouDr7_lA6A-8Itl&si=YnCecXzp4SI1460K&index=8" >}}
