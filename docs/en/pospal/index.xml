@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>Adapay EFTPOS machine connect with PosPal</title>
+      <link>https://intelligeneer.github.io/en/pospal/adaeftbindpos/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://intelligeneer.github.io/en/pospal/adaeftbindpos/</guid>
+      <description>Order PageTop Left corner (Make sure Cart is Empty) &lt;!DOCTYPE html&gt; Title Scroll Down to Settings &lt;!DOCTYPE html&gt; Title OnGeneral Settings Page, Scroll Down to ADYEN SETTING then Press the Pen Icon🖊 &lt;!DOCTYPE html&gt; Title Input EFTPOS model and S/N &lt;!DOCTYPE html&gt; Title Notice: Different EFTPOS model will have different S/N S/N is on the Back of the EFTPOS Machine V400cPlus V400cPlus-534234534 S1F2 (Notice: Need add</description>
+    </item>
+    
+    <item>
       <title>Using a mobile hotspot to Login the PosPal system without internet access</title>
       <link>https://intelligeneer.github.io/en/pospal/change_internet/</link>
       <pubDate>Mon, 18 Mar 2024 15:30:57 +1000</pubDate>

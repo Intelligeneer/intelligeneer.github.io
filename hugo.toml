@@ -12,6 +12,11 @@ buildDrafts = 'false'
 buildFuture = 'false'
 buildExpired = 'false'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
 [[menu.main]]
 identifier = "中文"

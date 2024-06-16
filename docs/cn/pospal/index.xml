@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>Adapay刷卡机如何与银豹系统连接</title>
+      <link>https://intelligeneer.github.io/cn/pospal/adaeftbindpos/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://intelligeneer.github.io/cn/pospal/adaeftbindpos/</guid>
+      <description>点单界面左上角 (确保左侧购物车内事情空的) &lt;!DOCTYPE html&gt; Title 向下滑找到 设置 &lt;!DOCTYPE html&gt; Title 在General Settings (通用设置)界面下滑找到 ADYEN SETTING 并点击小笔🖊 &lt;!DOCTYPE html&gt; Title 输入刷卡</description>
+    </item>
+    
+    <item>
       <title>在没有网络的情况下，使用手机热点登入点单系统</title>
       <link>https://intelligeneer.github.io/cn/pospal/change_internet/</link>
       <pubDate>Mon, 18 Mar 2024 15:30:57 +1000</pubDate>
