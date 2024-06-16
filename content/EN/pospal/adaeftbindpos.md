@@ -46,6 +46,7 @@ AMS1-00015823400000
 ```
 
 
+**<span style="color: red"> (_Test after connected_)</span>**
 
 **Video Downbelow👇**
 {{< youtube id="yfx7rZ_PKgs?si=pw9q2pelpkxLXXyw" >}}

@@ -45,7 +45,7 @@ S1F2-00015823400000
 AMS1-00015823400000
 ```
 
-
+**<span style="color: red"> (_连接完成之后请做测试_)</span>**
 
 **视频如下👇**
 {{< youtube id="yfx7rZ_PKgs?si=pw9q2pelpkxLXXyw" >}}
