@@ -134,6 +134,15 @@
     </item>
     
     <item>
+      <title>打印机不出单排查步骤</title>
+      <link>https://intelligeneer.github.io/cn/pospal/printerconnectissue/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://intelligeneer.github.io/cn/pospal/printerconnectissue/</guid>
+      <description>1. 确定店内网络是否正常 2. 检查打印机是否开机 3. 检查打印机网线是否连接 4. 检查打印机IP地址是否与银豹系统里的IP地址相同 5. 检查系统是否收到单子 6.</description>
+    </item>
+    
+    <item>
       <title>ArmPOS 打印机IP修改</title>
       <link>https://intelligeneer.github.io/internal_use/printer_setup/armpos_ip/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
