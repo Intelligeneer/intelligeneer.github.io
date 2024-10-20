@@ -12,7 +12,7 @@ draft = false
 **1 在Adapay刷卡机更新配置**
 {{< youtube id="playlist?list=PLARAy0Gh8lsaSwmNpKouDr7_lA6A-8Itl&si=YnCecXzp4SI1460K&index=1" >}}
 
-**2 在Adapay刷卡机上查看每日刷卡总额并充值**
+**2 在Adapay刷卡机上查看每日刷卡总额并重置**
 {{< youtube id="playlist?list=PLARAy0Gh8lsaSwmNpKouDr7_lA6A-8Itl&si=YnCecXzp4SI1460K&index=2" >}}
 
 **3 在Adapay刷卡机上切换 WiFi 或 4G backup**
