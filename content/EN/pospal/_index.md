@@ -1,4 +1,0 @@
----
-title: 'Pospal'
-hidemeta: true
----
